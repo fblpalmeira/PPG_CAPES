@@ -127,29 +127,6 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 [Etnobiologia e Conservação da Natureza - UFRPE](http://www.pgetno.ufrpe.br/)
 
-- Área de conhecimento: Zoologia
-
-[Biodiversidade e Saúde - FIOCRUZ](http://pgbs.ioc.fiocruz.br)
-
-[Entomologia - INPA](https://w2.solucaoatrio.net.br/somos/inpa-ent/index.php/pt/apresentacao)
-
-[Ecologia e Evolução da Biodiversidade - PUCRS](https://www.pucrs.br/saude/programa-de-pos-graduacao-em-ecologia-e-evolucao-da-biodiversidade/)
-
-[Zoologia - UESC](http://www.uesc.br/zoologia)
-
-[Ciências Biológicas (Zoologia) - UFPB](http://www.ufpb.br/pos/zoologia)
-
-[Zoologia - UFMG](https://sites.icb.ufmg.br/pgzooufmg/)
-
-[Zoologia - UFPA](http://ppgzool.propesp.ufpa.br/)
-
-[Ciências Biológicas (Entomologia) - UFPR](http://www.pgento.ufpr.br/)
-
-[Zoologia - UFPR](http://www.pgzoo.ufpr.br)
-
-[Biologia Animal - UFRGS](http://www.ufrgs.br/ppgban/)
-
-
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
 | A | Biodiversidade | Ecologia |  [Biodiversidade e Conservação](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116) | UFPI | 
@@ -167,12 +144,20 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 | 5 | Biodiversidade | Ecologia |  ... | ... |
 | 5 | Biodiversidade | Ecologia |  ... | ... |
 | 5 | Biodiversidade | Ecologia |  ... | ... |
-
 | A | Biodiversidade | Zoologia |  [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
 | 3 | Biodiversidade | Zoologia |  ... | ... |
 | 4 | Biodiversidade | Zoologia |  ... | ... |
-| 5 | Biodiversidade | Zoologia |  ... | ... |
-
+| 5 | Biodiversidade | Zoologia | [Biodiversidade e Saúde](http://pgbs.ioc.fiocruz.br) | FIOCRUZ |
+| 5 | Biodiversidade | Zoologia | [Entomologia](https://w2.solucaoatrio.net.br/somos/inpa-ent/index.php/pt/apresentacao) | INPA |
+| 5 | Biodiversidade | Zoologia | [Ecologia e Evolução da Biodiversidade](https://www.pucrs.br/saude/programa-de-pos-graduacao-em-ecologia-e-evolucao-da-biodiversidade/) | PUCRS |
+| 5 | Biodiversidade | Zoologia | [Zoologia](http://www.uesc.br/zoologia) | UESC |
+| 5 | Biodiversidade | Zoologia | [Ciências Biológicas (Zoologia)](http://www.ufpb.br/pos/zoologia) | UFPB |
+| 5 | Biodiversidade | Zoologia | [Zoologia](https://sites.icb.ufmg.br/pgzooufmg/) | UFMG |
+| 5 | Biodiversidade | Zoologia | [Zoologia](http://ppgzool.propesp.ufpa.br/) | UFPA |
+| 5 | Biodiversidade | Zoologia | 
+[Ciências Biológicas (Entomologia)](http://www.pgento.ufpr.br/) | UFPR |
+| 5 | Biodiversidade | Zoologia | [Zoologia](http://www.pgzoo.ufpr.br) | UFPR |
+| 5 | Biodiversidade | Zoologia | [Biologia Animal](http://www.ufrgs.br/ppgban/) | UFRGS |
 | A | Ciências Ambientais | Ciências Ambientais | ... | ... |
 | A | Ciências Ambientais | Ciências Ambientais | [Desatres Naturais](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/) | UNESP São José dos Campos |
 | A | Ciências Ambientais | Ciências Ambientais | ... | ... |
@@ -186,14 +171,13 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 | 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente](http://www.prodema.ufc.br/) | UFC |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Ciências Ambientais](http://www.ppgca.propesp.ufpa.br) | UFPA |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente](https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=423) | UFRN |
-| 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente]() |  |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente]() | ... |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Qualidade Ambiental](https://www.feevale.br/pgqualidadeambiental) | FEEVALE |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Gestão Ambiental](https://www.up.edu.br/mestrado-e-doutorado/mestrado-em-gestao-ambiental/) | UP |
-| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  | [Ciências de Florestas Tropicais - INPA](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/) | ... |
-| 3 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  | [Ciência Florestal](https://www.fca.unesp.br/#!/pg-ciencia-florestal) | UNESP Botucatu |
-| 4 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  | [Ciência Florestal](https://poscienciaflorestal.ufv.br/) | UFV |
-| 5 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
-
+| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciências de Florestas Tropicais](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/) | INPA |
+| 3 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://www.fca.unesp.br/#!/pg-ciencia-florestal) | UNESP Botucatu |
+| 4 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://poscienciaflorestal.ufv.br/) | UFV |
+| 5 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
 | A | Interdisciplinar | Interdisciplinar | ... | ... |
 | 3 | Interdisciplinar | Interdisciplinar | ... | ... |
 | 4 | Interdisciplinar | Interdisciplinar | ... | ... |
