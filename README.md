@@ -30,7 +30,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ciências Ambientais - IEE/USP](http://www.iee.usp.br/)
 
-[Ecologia Aplicada - ESALQ//USP](http://www.esalq.usp.br/pg/91131.htm)
+[Ecologia Aplicada - ESALQ//USP](http://www.esalq.usp.br/pg/programas/ecologia-aplicada/)
 
 
 # Nota 6
