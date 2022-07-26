@@ -55,7 +55,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ecologia, Conservação e Manejo da Vida Silvestre - UFMG](http://www.ufmg.br/pos/ecologia)
 
-[Ecologia e Conservação - UFPR](http://www.prppg.ufpr.br:8080/ecologia/)
+[Ecologia e Conservação - UFPR](http://www.prppg.ufpr.br/site/ppgecologia/pb/)
 
 [Ecologia - UFRN](http://www.sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=4846)
 
