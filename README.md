@@ -248,12 +248,9 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 [Biodiversidade e Conservação - UFPI](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116)
 
-[Conservação e Uso dos Recursos Naturais](https://ppgren.unir.br/homepage)
+[Conservação e Uso dos Recursos Naturais - UNIR](https://ppgren.unir.br/homepage)
 
 [Biodiversidade - FURB](https://www.furb.br/web/5336/cursos/programa-pos-graduacao/biodiversidade/apresentacao)
-
-
-
 
 - Área de conhecimento: Zoologia
 
