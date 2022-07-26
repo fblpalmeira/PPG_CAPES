@@ -51,7 +51,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ecologia e Recursos Naturais - UENF](https://uenf.br/posgraduacao/ecologia-recursosnaturais/)
 
-[Ecologia: Teoria, Aplicação e Valores- UFBA](http://www.ecologia.ufba.br/)
+[Ecologia: Teoria, Aplicação e Valores - UFBA](https://ecologia.ufba.br/)
 
 [Ecologia, Conservação e Manejo da Vida Silvestre - UFMG](http://www.ufmg.br/pos/ecologia)
 
