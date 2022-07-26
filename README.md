@@ -271,7 +271,9 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 ...
 
 
-| Primeiro cabeçalho  |  Segundo cabeçalho  |
-| ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
+| Nota |  Área de avaliação  | Área de conhecimento  |  Curso              | Instituição         |
+| ---- | ------------------- | --------------------- | ------------------- | ------------------- |
+| A | Biodiversidade |  Célula de conteúdo   |  Célula de conteúdo | Célula de conteúdo  | 
+| A | Biodiversidade |  Célula de conteúdo   |  Célula de conteúdo | Célula de conteúdo  |
+| A | Biodiversidade |  Célula de conteúdo   |  Célula de conteúdo | Célula de conteúdo  |
+| A | Biodiversidade |  Célula de conteúdo   |  Célula de conteúdo | Célula de conteúdo  |
