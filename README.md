@@ -150,7 +150,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Desenvolvimento e Meio Ambiente - UFRN](https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=423)
 
-[Desenvolvimento e Meio Ambiente - UFPI-UFRN-FUFSE-UESC-UFPB/JP-UFERSA](http://www.pcmf.ufc.br/)
+###VER[Desenvolvimento e Meio Ambiente - UFPI-UFRN-FUFSE-UESC-UFPB/JP-UFERSA](http://www.pcmf.ufc.br/)
 
 [Qualidade Ambiental - FEEVALE](https://www.feevale.br/pgqualidadeambiental)
 
