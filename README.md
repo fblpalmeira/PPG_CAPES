@@ -136,7 +136,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ambiente e Desenvolvimento - UNIVATES](http://www.univates.br/ppgad)
 
-[Ambiente, Saúde e Sustentabilidade - USP](http://www.fsp.usp.br/pos/?cat=28)
+[Ambiente, Saúde e Sustentabilidade - USP](https://www.fsp.usp.br/pos/programas/ambiente-saude-e-sustentabilidade/)
 
 [Ciência e Tecnologia/ambiental - UNIVALI](http://www.univali.br/ppcta)
 
