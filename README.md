@@ -110,6 +110,25 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Zoologia
 
+[Biodiversidade e Saúde - FIOCRUZ](http://pgbs.ioc.fiocruz.br)
+
+[Entomologia - INPA](http://pg.inpa.gov.br/)
+
+[Ecologia e Evolução da Biodiversidade - PUCRS](http://www3.pucrs.br/portal/page/portal/fabioppg/ppgzoo)
+
+[Zoologia - UESC](http://www.uesc.br/zoologia)
+
+[Ciências Biológicas (zoologia) - UFPB](http://www.ufpb.br/pos/zoologia)
+
+[Zoologia - UFMG](https://sites.icb.ufmg.br/pgzooufmg/)
+
+[Zoologia - UFPA](http://ppgzool.propesp.ufpa.br/)
+
+[Ciências Biológicas (Entomologia) - UFPR](http://www.pgento.ufpr.br/)
+
+[Zoologia - UFPR](http://www.pgzoo.ufpr.br)
+
+[Biologia Animal - UFRGS](http://www.ufrgs.br/ppgban/)
 
 
 ## Área de avaliação: Ciências Ambientais
