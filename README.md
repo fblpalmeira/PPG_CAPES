@@ -154,7 +154,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 (Listado apenas aqueles cursos com alguma disciplina de conservação na grade curricular)
 
-[Ciências de Florestas Tropicais](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/)
+[Ciências de Florestas Tropicais - INPA](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/)
 
 [Ciência Florestal - UNESP Botucatu](https://www.fca.unesp.br/#!/pg-ciencia-florestal)
 
