@@ -264,7 +264,7 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 ## Área de avaliação: Ciências Ambientais
 
 - Área de conhecimento: Ciências Ambientais
-
+[Desatres Naturais - UNESP São José dos Campos](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/)
 
 ## Área de avaliação: Interdisciplinar
 
