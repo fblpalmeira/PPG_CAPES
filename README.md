@@ -63,7 +63,13 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Zoologia
 
+[Biologia Comparada - FFCLRP/USP](http://sites.usp.br/biocomparada/pb/)
 
+[Zoologia - UNESP Botucatu](http://www.ibb.unesp.br)
+
+[Biologia Animal - UFPE](http://www.ufpe.br/ppgba)
+
+[Zoologia - UFRJ](https://ppgzoo.museunacional.ufrj.br/)
 
 ## Área de avaliação: Ciências Ambientais
 
