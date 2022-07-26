@@ -75,6 +75,11 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Ciências Ambientais
 
+[Ciência do Sistema Terrestre - INPE](http://www.inpe.br/pos_graduacao/)
+
+[Ambiente e Sociedade - UNICAMP](http://www.nepam.unicamp.br)
+
+[Ciências Ambientais -UFG](http://www.ufg.br/ciamb)
 
 
 # Nota 5
@@ -82,6 +87,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 ## Área de avaliação: Biodiversidade
 
 - Área de conhecimento: Ecologia
+
 
 
 
