@@ -199,11 +199,19 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 - Área de conhecimento: Zoologia
 
 
+## Área de avaliação: Ciências Agrárias I
+
+- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
+
 
 ## Área de avaliação: Ciências Ambientais
 
 - Área de conhecimento: Ciências Ambientais
 
+
+## Área de avaliação: Interdisciplinar
+
+- Área de conhecimento: Interdisciplinar
 
 
 # Nota 3
@@ -217,7 +225,42 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 - Área de conhecimento: Zoologia
 
 
+## Área de avaliação: Ciências Agrárias I
+
+- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
+
 
 ## Área de avaliação: Ciências Ambientais
 
 - Área de conhecimento: Ciências Ambientais
+
+
+## Área de avaliação: Interdisciplinar
+
+- Área de conhecimento: Interdisciplinar
+
+
+# Nota A
+
+## Área de avaliação: Biodiversidade
+
+- Área de conhecimento: Ecologia
+
+
+
+- Área de conhecimento: Zoologia
+
+
+## Área de avaliação: Ciências Agrárias I
+
+- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
+
+
+## Área de avaliação: Ciências Ambientais
+
+- Área de conhecimento: Ciências Ambientais
+
+
+## Área de avaliação: Interdisciplinar
+
+- Área de conhecimento: Interdisciplinar
