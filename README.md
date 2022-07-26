@@ -267,3 +267,5 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 ## Área de avaliação: Interdisciplinar
 
 - Área de conhecimento: Interdisciplinar
+
+...
