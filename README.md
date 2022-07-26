@@ -75,7 +75,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Recursos Florestais e Engenharia Florestal 
 
-(Foram selecionais apenas os cursos com conservação de fauna ou areas protegidas na grade curricular)
+(Listado apenas aqueles cursos com alguma disciplina de conservação na grade curricular)
 
 [Recursos Florestais - ESALQ/USP](http://www.esalq.usp.br/pg/programas/recursos-florestais)
 
@@ -152,7 +152,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Recursos Florestais e Engenharia Florestal 
 
-(Foram selecionais apenas os cursos com conservação de fauna ou areas protegidas na grade curricular)
+(Listado apenas aqueles cursos com alguma disciplina de conservação na grade curricular)
 
 [Ciências de Florestas Tropicais](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/)
 
