@@ -240,21 +240,6 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 - Área de conhecimento: Interdisciplinar
 
 
-# Nota A
-
-## Área de avaliação: Biodiversidade
-
-- Área de conhecimento: Ecologia
-
-[Biodiversidade e Conservação - UFPI](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116)
-
-[Conservação e Uso dos Recursos Naturais - UNIR](https://ppgren.unir.br/homepage)
-
-
-
-- Área de conhecimento: Zoologia
-
-[Sistemática e Conservação da Diversidade Biológica - SEMA](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29)
 
 ## Área de avaliação: Ciências Ambientais
 
@@ -276,4 +261,6 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 | A | Biodiversidade | Ecologia |  [Biodiversidade e Conservação](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116) | UFPI | 
 | A | Biodiversidade | Ecologia |  [Conservação e Uso dos Recursos Naturais](https://ppgren.unir.br/homepage) | UNIR |
 | A | Biodiversidade | Ecologia |  [Biodiversidade](https://www.furb.br/web/5336/cursos/programa-pos-graduacao/biodiversidade/apresentacao) | FURB |
-| A | Biodiversidade | Ecologia |  Célula de conteúdo | Célula de conteúdo  |
+| A | Biodiversidade | Zoologia |  [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
+| A | Ciências Ambientais | Ciências Ambientais | [Desatres Naturais](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/) | UNESP São José dos Campos |
+
