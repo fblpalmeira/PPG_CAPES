@@ -138,7 +138,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ambiente, Saúde e Sustentabilidade - USP](https://www.fsp.usp.br/pos/programas/ambiente-saude-e-sustentabilidade/)
 
-[Ciência e Tecnologia/ambiental - UNIVALI](http://www.univali.br/ppcta)
+[Ciência e Tecnologia Ambiental - UNIVALI](http://www.univali.br/ppcta)
 
 [Desenvolvimento e Meio Ambiente - UFPE](http://www.ufpe.br/prodema)
 
