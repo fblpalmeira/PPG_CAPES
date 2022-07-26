@@ -59,7 +59,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ecologia - UFRN](http://www.sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=4846)
 
-[Ecologia - UFRS](http://www.ecologia.ufrgs.br/ppgeco)
+[Ecologia - UFRGS](https://www.ufrgs.br/ppgecologia/)
 
 - Área de conhecimento: Zoologia
 
