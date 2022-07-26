@@ -75,7 +75,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Ciências Ambientais
 
-[Ciência do Sistema Terrestre - INPE](http://www.inpe.br/pos_graduacao/)
+[Ciência do Sistema Terrestre - INPE](http://www.ccst.inpe.br/servico/pos-graduacao-em-ciencia-do-sistema-terrestre/)
 
 [Ambiente e Sociedade - UNICAMP](http://www.nepam.unicamp.br)
 
