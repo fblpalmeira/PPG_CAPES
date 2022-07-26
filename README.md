@@ -71,6 +71,12 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Zoologia - UFRJ](https://ppgzoo.museunacional.ufrj.br/)
 
+## Área de avaliação: Ciências Agrárias I
+
+- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
+
+[Recursos Florestais - ESALQ/USP](http://www.esalq.usp.br/pg/programas/recursos-florestais)
+
 ## Área de avaliação: Ciências Ambientais
 
 - Área de conhecimento: Ciências Ambientais
@@ -139,6 +145,12 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 [Zoologia - UFPR](http://www.pgzoo.ufpr.br)
 
 [Biologia Animal - UFRGS](http://www.ufrgs.br/ppgban/)
+
+## Área de avaliação: Ciências Agrárias I
+
+- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
+
+
 
 ## Área de avaliação: Ciências Ambientais
 
