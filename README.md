@@ -154,7 +154,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Qualidade Ambiental - FEEVALE](https://www.feevale.br/pgqualidadeambiental)
 
-[Gestão Ambiental - UP](http://pgamb.up.edu.br)
+[Gestão Ambiental - UP](https://www.up.edu.br/mestrado-e-doutorado/mestrado-em-gestao-ambiental/)
 
 
 # Nota 4
