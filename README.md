@@ -149,118 +149,53 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 [Biologia Animal - UFRGS](http://www.ufrgs.br/ppgban/)
 
-## Área de avaliação: Ciências Agrárias I
 
-- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
-
-[Ciências de Florestas Tropicais - INPA](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/)
-
-[Ciência Florestal - UNESP Botucatu](https://www.fca.unesp.br/#!/pg-ciencia-florestal)
-
-[Ciência Florestal - UFV](https://poscienciaflorestal.ufv.br/)
-
-[Engenharia Florestal - UFPR](http://www.prppg.ufpr.br/site/ppgfloresta/pb/)
-
-## Área de avaliação: Ciências Ambientais
-
-- Área de conhecimento: Ciências Ambientais
-
-[Ambiente e Desenvolvimento - UNIVATES](http://www.univates.br/ppgad)
-
-[Ambiente, Saúde e Sustentabilidade - USP](https://www.fsp.usp.br/pos/programas/ambiente-saude-e-sustentabilidade/)
-
-[Ciência e Tecnologia Ambiental - UNIVALI](http://www.univali.br/ppcta)
-
-[Desenvolvimento e Meio Ambiente - UFPE](http://www.ufpe.br/prodema)
-
-[Ciências Marinhas Tropicais - UFC](https://ppgcmt.ufc.br/pt/)
-
-[Desenvolvimento e Meio Ambiente - UFC](http://www.prodema.ufc.br/)
-
-[Ciências Ambientais - UFPA](http://www.ppgca.propesp.ufpa.br)
-
-[Desenvolvimento e Meio Ambiente - UFRN](https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=423)
-
-###VER[Desenvolvimento e Meio Ambiente - UFPI-UFRN-FUFSE-UESC-UFPB/JP-UFERSA](http://www.pcmf.ufc.br/)
-
-[Qualidade Ambiental - FEEVALE](https://www.feevale.br/pgqualidadeambiental)
-
-[Gestão Ambiental - UP](https://www.up.edu.br/mestrado-e-doutorado/mestrado-em-gestao-ambiental/)
-
-
-# Nota 4
-
-## Área de avaliação: Biodiversidade
-
-- Área de conhecimento: Ecologia
-
-
-
-- Área de conhecimento: Zoologia
-
-
-## Área de avaliação: Ciências Agrárias I
-
-- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
-
-
-## Área de avaliação: Ciências Ambientais
-
-- Área de conhecimento: Ciências Ambientais
-
-
-## Área de avaliação: Interdisciplinar
-
-- Área de conhecimento: Interdisciplinar
-
-
-# Nota 3
-
-## Área de avaliação: Biodiversidade
-
-- Área de conhecimento: Ecologia
-
-
-
-- Área de conhecimento: Zoologia
-
-
-## Área de avaliação: Ciências Agrárias I
-
-- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
-
-
-## Área de avaliação: Ciências Ambientais
-
-- Área de conhecimento: Ciências Ambientais
-
-
-## Área de avaliação: Interdisciplinar
-
-- Área de conhecimento: Interdisciplinar
-
-
-
-## Área de avaliação: Ciências Ambientais
-
-- Área de conhecimento: Ciências Ambientais
-
-[Desatres Naturais - UNESP São José dos Campos](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/)
-
-...
-
-## Área de avaliação: Interdisciplinar
-
-- Área de conhecimento: Interdisciplinar
-
-...
-
-
-| Nota |  Área de avaliação  | Área de conhecimento  |  Curso de Pós-graduação | Instituição |
+| Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
 | A | Biodiversidade | Ecologia |  [Biodiversidade e Conservação](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116) | UFPI | 
 | A | Biodiversidade | Ecologia |  [Conservação e Uso dos Recursos Naturais](https://ppgren.unir.br/homepage) | UNIR |
 | A | Biodiversidade | Ecologia |  [Biodiversidade](https://www.furb.br/web/5336/cursos/programa-pos-graduacao/biodiversidade/apresentacao) | FURB |
+| 3 | Biodiversidade | Ecologia |  ... | ... |
+| 4 | Biodiversidade | Ecologia |  ... | ... |
+| 5 | Biodiversidade | Ecologia |  ... | ... |
+| 5 | Biodiversidade | Ecologia |  ... | ... |
+| 5 | Biodiversidade | Ecologia |  ... | ... |
+| 5 | Biodiversidade | Ecologia |  ... | ... |
+| 5 | Biodiversidade | Ecologia |  ... | ... |
+| 5 | Biodiversidade | Ecologia |  ... | ... |
+| 5 | Biodiversidade | Ecologia |  ... | ... |
+| 5 | Biodiversidade | Ecologia |  ... | ... |
+| 5 | Biodiversidade | Ecologia |  ... | ... |
+| 5 | Biodiversidade | Ecologia |  ... | ... |
+
 | A | Biodiversidade | Zoologia |  [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
+| 3 | Biodiversidade | Zoologia |  ... | ... |
+| 4 | Biodiversidade | Zoologia |  ... | ... |
+| 5 | Biodiversidade | Zoologia |  ... | ... |
+
+| A | Ciências Ambientais | Ciências Ambientais | ... | ... |
 | A | Ciências Ambientais | Ciências Ambientais | [Desatres Naturais](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/) | UNESP São José dos Campos |
+| A | Ciências Ambientais | Ciências Ambientais | ... | ... |
+| 3 | Ciências Ambientais | Ciências Ambientais | ... | ... |
+| 4 | Ciências Ambientais | Ciências Ambientais | ... | ... |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Ambiente e Desenvolvimento](http://www.univates.br/ppgad) | UNIVATES |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Ambiente, Saúde e Sustentabilidade - USP](https://www.fsp.usp.br/pos/programas/ambiente-saude-e-sustentabilidade/) | ... |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Ciência e Tecnologia Ambiental](http://www.univali.br/ppcta) | UNIVALI |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente](http://www.ufpe.br/prodema) | UFPE |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Ciências Marinhas Tropicais](https://ppgcmt.ufc.br/pt/) | UFC |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente](http://www.prodema.ufc.br/) | UFC |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Ciências Ambientais](http://www.ppgca.propesp.ufpa.br) | UFPA |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente](https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=423) | UFRN |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente]() |  |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Qualidade Ambiental](https://www.feevale.br/pgqualidadeambiental) | FEEVALE |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Gestão Ambiental](https://www.up.edu.br/mestrado-e-doutorado/mestrado-em-gestao-ambiental/) | UP |
+| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  | [Ciências de Florestas Tropicais - INPA](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/) | ... |
+| 3 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  | [Ciência Florestal](https://www.fca.unesp.br/#!/pg-ciencia-florestal) | UNESP Botucatu |
+| 4 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  | [Ciência Florestal](https://poscienciaflorestal.ufv.br/) | UFV |
+| 5 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
+
+| A | Interdisciplinar | Interdisciplinar | ... | ... |
+| 3 | Interdisciplinar | Interdisciplinar | ... | ... |
+| 4 | Interdisciplinar | Interdisciplinar | ... | ... |
+| 5 | Interdisciplinar | Interdisciplinar | ... | ... |
 
