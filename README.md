@@ -269,3 +269,9 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 - Área de conhecimento: Interdisciplinar
 
 ...
+
+
+| Primeiro cabeçalho  |  Segundo cabeçalho  |
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
