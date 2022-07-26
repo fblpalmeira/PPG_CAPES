@@ -254,6 +254,7 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 - Área de conhecimento: Zoologia
 
+[Sistemática e Conservação da Diversidade Biológica - SEMA](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29)
 
 ## Área de avaliação: Ciências Agrárias I
 
