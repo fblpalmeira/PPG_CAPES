@@ -142,7 +142,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Desenvolvimento e Meio Ambiente - UFPE](http://www.ufpe.br/prodema)
 
-[Ciências Marinhas Tropicais - UFC](http://www.ppgcmt.labomar.ufc.br)
+[Ciências Marinhas Tropicais - UFC](https://ppgcmt.ufc.br/pt/)
 
 [Desenvolvimento e Meio Ambiente - UFC](http://www.prodema.ufc.br/)
 
