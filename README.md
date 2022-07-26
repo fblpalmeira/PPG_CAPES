@@ -250,7 +250,7 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 [Conservação e Uso dos Recursos Naturais - UNIR](https://ppgren.unir.br/homepage)
 
-[Biodiversidade - FURB](https://www.furb.br/web/5336/cursos/programa-pos-graduacao/biodiversidade/apresentacao)
+
 
 - Área de conhecimento: Zoologia
 
@@ -273,7 +273,7 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 | Nota |  Área de avaliação  | Área de conhecimento  |  Curso              | Instituição         |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
-| A | Biodiversidade |  Célula de conteúdo   |  Célula de conteúdo | Célula de conteúdo  | 
-| A | Biodiversidade |  Célula de conteúdo   |  Célula de conteúdo | Célula de conteúdo  |
-| A | Biodiversidade |  Célula de conteúdo   |  Célula de conteúdo | Célula de conteúdo  |
-| A | Biodiversidade |  Célula de conteúdo   |  Célula de conteúdo | Célula de conteúdo  |
+| A | Biodiversidade | Ecologia |  [Biodiversidade e Conservação](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116) | UFPI | 
+| A | Biodiversidade | Ecologia |  [Conservação e Uso dos Recursos Naturais](https://ppgren.unir.br/homepage) | UNIR |
+| A | Biodiversidade | Ecologia |  [Biodiversidade](https://www.furb.br/web/5336/cursos/programa-pos-graduacao/biodiversidade/apresentacao) | FURB |
+| A | Biodiversidade | Ecologia |  Célula de conteúdo | Célula de conteúdo  |
