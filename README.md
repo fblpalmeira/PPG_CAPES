@@ -65,7 +65,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Biologia Comparada - FFCLRP/USP](http://sites.usp.br/biocomparada/pb/)
 
-[Zoologia - UNESP Botucatu](http://www.ibb.unesp.br)
+[Zoologia - UNESP Botucatu](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/ciencias-biologicas-zoologia/apresentacao/)
 
 [Biologia Animal - UFPE](http://www.ufpe.br/ppgba)
 
