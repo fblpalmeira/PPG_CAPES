@@ -49,7 +49,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ecologia de Ambientes Aquáticos e Continentais - UEM](http://www.pea.uem.br)
 
-[Ecologia e Recursos Naturais - UENF](http://www.uenf.br/Uenf/Pages/CBB/Ecologia_RecursosNaturais)
+[Ecologia e Recursos Naturais - UENF](https://uenf.br/posgraduacao/ecologia-recursosnaturais/)
 
 [Ecologia: Teoria, Aplicação e Valores- UFBA](http://www.ecologia.ufba.br/)
 
