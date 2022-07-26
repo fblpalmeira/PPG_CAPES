@@ -81,6 +81,16 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ciências Ambientais - UFG](https://ciamb.prpg.ufg.br/)
 
+## Área de avaliação: Interdisciplinar
+
+- Área de conhecimento: Interdisciplinar
+
+[Modelagem Computacional - LNCC](http://www.lncc.br](http://posgrad.lncc.br/pt-br/)
+
+[Desenvolvimento Sustentável do Trópico Úmido - UFPA](http://www.naea.ufpa.br/naea/novosite/)
+
+[Desenvolvimento Rural - UFRGS](http://www.ufrgs.br/pgdr)
+
 
 # Nota 5
 
