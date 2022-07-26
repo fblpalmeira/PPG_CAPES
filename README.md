@@ -256,7 +256,7 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 ...
 
 
-| Nota |  Área de avaliação  | Área de conhecimento  |  Curso              | Instituição         |
+| Nota |  Área de avaliação  | Área de conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
 | A | Biodiversidade | Ecologia |  [Biodiversidade e Conservação](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116) | UFPI | 
 | A | Biodiversidade | Ecologia |  [Conservação e Uso dos Recursos Naturais](https://ppgren.unir.br/homepage) | UNIR |
