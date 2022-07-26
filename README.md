@@ -85,7 +85,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Interdisciplinar
 
-[Modelagem Computacional - LNCC](http://www.lncc.br](http://posgrad.lncc.br/pt-br/)
+[Modelagem Computacional - LNCC](http://posgrad.lncc.br/pt-br/)
 
 [Desenvolvimento Sustentável do Trópico Úmido - UFPA](http://www.naea.ufpa.br/naea/novosite/)
 
