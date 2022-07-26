@@ -1,6 +1,6 @@
 # PPG_CAPES
 
-Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAPES - Plataforma Sucupira.
+Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAPES - [Plataforma Sucupira](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoConceito.jsf;jsessionid=QYgAtGy9GTmsaDFQ65m-bfSJ.sucupira-214).
 
 # Nota 7
 
