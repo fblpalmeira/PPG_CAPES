@@ -79,7 +79,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ambiente e Sociedade - UNICAMP](http://www.nepam.unicamp.br)
 
-[Ciências Ambientais - UFG](http://www.ufg.br/ciamb)
+[Ciências Ambientais - UFG](https://ciamb.prpg.ufg.br/)
 
 
 # Nota 5
