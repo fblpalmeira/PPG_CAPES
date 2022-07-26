@@ -1,6 +1,8 @@
-# PPG_CAPES
+# Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAPES - [Plataforma Sucupira](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoConceito.jsf;jsessionid=QYgAtGy9GTmsaDFQ65m-bfSJ.sucupira-214). 
 
-Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAPES - [Plataforma Sucupira](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoConceito.jsf;jsessionid=QYgAtGy9GTmsaDFQ65m-bfSJ.sucupira-214).
+Por Francesca B. L. Palmeira 
+
+Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências Agrárias I, (iii) Ciências Ambientais e (iv) Interdisciplinar. Para a área de avaliação (i) Biodiversidade, excluí as áreas de conhecimento Botânica e Oceanografia. Para a área de avaliação (ii) Ciências Agrárias I, excluí as áreas de conhecimento Agronomia e Engenharia Agrícola e para a área Recursos Florestais e Engenharia Florestal selecionei apenas aqueles cursos que tivesse na grade curricular alguma disciplina de conservação ou área correlara. Para a área de avaliação (iii) Ciências Ambientais considerei todos os cursos e para a área (iv) Interdisciplinar, considerei apenas os cursos com interface ambiental ou com disciplinas de conservação na grade curricular.
 
 # Nota 7
 
@@ -74,8 +76,6 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 ## Área de avaliação: Ciências Agrárias I 
 
 - Área de conhecimento: Recursos Florestais e Engenharia Florestal 
-
-(Listado apenas aqueles cursos com alguma disciplina de conservação na grade curricular)
 
 [Recursos Florestais - ESALQ/USP](http://www.esalq.usp.br/pg/programas/recursos-florestais)
 
