@@ -112,9 +112,9 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Biodiversidade e Saúde - FIOCRUZ](http://pgbs.ioc.fiocruz.br)
 
-[Entomologia - INPA](http://pg.inpa.gov.br/)
+[Entomologia - INPA](https://w2.solucaoatrio.net.br/somos/inpa-ent/index.php/pt/apresentacao)
 
-[Ecologia e Evolução da Biodiversidade - PUCRS](http://www3.pucrs.br/portal/page/portal/fabioppg/ppgzoo)
+[Ecologia e Evolução da Biodiversidade - PUCRS](https://www.pucrs.br/saude/programa-de-pos-graduacao-em-ecologia-e-evolucao-da-biodiversidade/)
 
 [Zoologia - UESC](http://www.uesc.br/zoologia)
 
