@@ -39,7 +39,27 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Ecologia
 
+[Ecologia e Conservação - UFMS](http://ppgec.ufms.br)
 
+[Ecologia - INPA](http://pgeco.inpa.gov.br)
+
+[Ecologia - UNB](http://pgeclunb.net.br)
+
+[Ecologia e Evolução - UERJ](https://ppgee.uerj.br)
+
+[Ecologia de Ambientes Aquáticos e Continentais - UEM](http://www.pea.uem.br)
+
+[Ecologia e Recursos Naturais - UENF](http://www.uenf.br/Uenf/Pages/CBB/Ecologia_RecursosNaturais)
+
+[Ecologia: Teoria, Aplicação e Valores- UFBA](http://www.ecologia.ufba.br/)
+
+[Ecologia, Conservação e Manejo da Vida Silvestre - UFMG](http://www.ufmg.br/pos/ecologia)
+
+[Ecologia e Conservação - UFPR](http://www.prppg.ufpr.br:8080/ecologia/)
+
+[Ecologia - UFRN](http://www.sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=4846)
+
+[Ecologia - UFRS](http://www.ecologia.ufrgs.br/ppgeco)
 
 - Área de conhecimento: Zoologia
 
