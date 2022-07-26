@@ -79,7 +79,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ambiente e Sociedade - UNICAMP](http://www.nepam.unicamp.br)
 
-[Ciências Ambientais -UFG](http://www.ufg.br/ciamb)
+[Ciências Ambientais - UFG](http://www.ufg.br/ciamb)
 
 
 # Nota 5
@@ -88,8 +88,25 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Ecologia
 
+[Biologia - UNISINOS](http://www.unisinos.br/mestrado-e-doutorado/biologia/presencial/sao-leopoldo)
 
+[Ecologia e Conservação da Biodiversidade - UESC](http://ecologiauesc.com/)
 
+[Ecologia Aplicada - UFLA](http://www.prpg.ufla.br/ecologia)
+
+[Ecologia e Conservação da Biodiversidade](https://www.ecologia.ufmt.br)
+
+[Ecologia - UFSC](http://www.poseco.ufsc.br)
+
+[Ecologia, Conservação e Biodiversidade - UFU](http://www.ppgeco.ib.ufu.br/)
+
+[Ecologia Aquática e Pesca - UFPA](http://ppgeap.propesp.ufpa.br)
+
+[Sistemas Costeiros e Oceânicos - UFPR](http://www.cem.ufpr.br/?page_id=61)
+
+[Ecologia - UFRJ](http://www.ppge.ufrj.br)
+
+[Etnobiologia e Conservação da Natureza - UFRPE](http://www.pgetno.ufrpe.br/)
 
 - Área de conhecimento: Zoologia
 
