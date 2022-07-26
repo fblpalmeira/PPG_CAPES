@@ -118,7 +118,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Zoologia - UESC](http://www.uesc.br/zoologia)
 
-[Ciências Biológicas (zoologia) - UFPB](http://www.ufpb.br/pos/zoologia)
+[Ciências Biológicas (Zoologia) - UFPB](http://www.ufpb.br/pos/zoologia)
 
 [Zoologia - UFMG](https://sites.icb.ufmg.br/pgzooufmg/)
 
@@ -130,11 +130,31 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Biologia Animal - UFRGS](http://www.ufrgs.br/ppgban/)
 
-
 ## Área de avaliação: Ciências Ambientais
 
 - Área de conhecimento: Ciências Ambientais
 
+[Ambiente e Desenvolvimento - UNIVATES](http://www.univates.br/ppgad)
+
+[Ambiente, Saúde e Sustentabilidade - USP](http://www.fsp.usp.br/pos/?cat=28)
+
+[Ciência e Tecnologia/ambiental - UNIVALI](http://www.univali.br/ppcta)
+
+[Desenvolvimento e Meio Ambiente - UFPE](http://www.ufpe.br/prodema)
+
+[Ciências Marinhas Tropicais - UFC](http://www.ppgcmt.labomar.ufc.br)
+
+[Desenvolvimento e Meio Ambiente - UFC](http://www.prodema.ufc.br/)
+
+[Ciências Ambientais - UFPA](http://www.ppgca.propesp.ufpa.br)
+
+[Desenvolvimento e Meio Ambiente - UFRN](http://www.posgraduacao.ufrn.br/prodema)
+
+[Desenvolvimento e Meio Ambiente - UFPI-UFRN-FUFSE-UESC-UFPB/JP-UFERSA](http://www.pcmf.ufc.br/)
+
+[Qualidade Ambiental - FEEVALE](https://www.feevale.br/pgqualidadeambiental)
+
+[Gestão Ambiental - UP](http://pgamb.up.edu.br)
 
 
 # Nota 4
