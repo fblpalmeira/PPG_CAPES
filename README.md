@@ -8,7 +8,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Ecologia
 
-[Ecologia - IB/USP](http://ecologia.ib.usp.br/pos)
+[Ecologia - IB/USP](http://ecologia.ib.usp.br/pos){:target="_blank" rel="noopener"} 
 
 [Ecologia - UNICAMP](http://www.ib.unicamp.br/pos_ecologia/)
 
