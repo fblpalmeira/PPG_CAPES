@@ -28,7 +28,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Desenvolvimnto Sustentável - CDS/UNB](http://www.cds.unb.br)
 
-[Ciências Ambientais - IEE/USP](http://www.iee.usp.br/)
+[Ciências Ambientais - IEE/USP](http://www.iee.usp.br/?q=pt-br/programa-de-p%C3%B3s-gradua%C3%A7%C3%A3o-em-ci%C3%AAncia-ambiental)
 
 [Ecologia Aplicada - ESALQ//USP](http://www.esalq.usp.br/pg/programas/ecologia-aplicada/)
 
