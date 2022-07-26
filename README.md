@@ -26,7 +26,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 - Área de conhecimento: Ciências Ambientais
 
-[Desenvolvimnto Sustentável - CDS/UNB](http://www.cds.unb.br)
+[Desenvolvimento Sustentável - CDS/UNB](http://www.cds.unb.br)
 
 [Ciências Ambientais - IEE/USP](http://www.iee.usp.br/?q=pt-br/programa-de-p%C3%B3s-gradua%C3%A7%C3%A3o-em-ci%C3%AAncia-ambiental)
 
@@ -73,7 +73,9 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 ## Área de avaliação: Ciências Agrárias I 
 
-- Área de conhecimento: Recursos Florestais e Engenharia Florestal (Foram selecionais apenas os cursos com conservação de fauna ou areas protegidas na grade curricular)
+- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
+
+(Foram selecionais apenas os cursos com conservação de fauna ou areas protegidas na grade curricular)
 
 [Recursos Florestais - ESALQ/USP](http://www.esalq.usp.br/pg/programas/recursos-florestais)
 
@@ -148,7 +150,9 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 ## Área de avaliação: Ciências Agrárias I
 
-- Área de conhecimento: Recursos Florestais e Engenharia Florestal (Foram selecionais apenas os cursos com conservação de fauna ou areas protegidas na grade curricular)
+- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
+
+(Foram selecionais apenas os cursos com conservação de fauna ou areas protegidas na grade curricular)
 
 [Ciências de Florestas Tropicais](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/)
 
