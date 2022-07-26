@@ -94,7 +94,7 @@ Lista dos sites dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAP
 
 [Ecologia Aplicada - UFLA](http://www.prpg.ufla.br/ecologia)
 
-[Ecologia e Conservação da Biodiversidade](https://www.ecologia.ufmt.br)
+[Ecologia e Conservação da Biodiversidade - UFMT](https://www.ecologia.ufmt.br)
 
 [Ecologia - UFSC](http://www.poseco.ufsc.br)
 
