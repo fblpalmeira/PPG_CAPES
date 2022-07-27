@@ -48,8 +48,7 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 5 | Biodiversidade | Zoologia | [Ciências Biológicas (Zoologia)](http://www.ufpb.br/pos/zoologia) | UFPB |
 | 5 | Biodiversidade | Zoologia | [Zoologia](https://sites.icb.ufmg.br/pgzooufmg/) | UFMG |
 | 5 | Biodiversidade | Zoologia | [Zoologia](http://ppgzool.propesp.ufpa.br/) | UFPA |
-| 5 | Biodiversidade | Zoologia | 
-[Ciências Biológicas (Entomologia)](http://www.pgento.ufpr.br/) | UFPR |
+| 5 | Biodiversidade | Zoologia | [Ciências Biológicas (Entomologia)](http://www.pgento.ufpr.br/) | UFPR |
 | 5 | Biodiversidade | Zoologia | [Zoologia](http://www.pgzoo.ufpr.br) | UFPR |
 | 5 | Biodiversidade | Zoologia | [Biologia Animal](http://www.ufrgs.br/ppgban/) | UFRGS |
 | 6 | Biodiversidade | Zoologia | [Biologia Comparada](http://sites.usp.br/biocomparada/pb/) | FFCLRP/USP |
