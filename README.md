@@ -64,11 +64,10 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 5 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://poscienciaflorestal.ufv.br/) | UFV |
 | 5 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
 | 6 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Recursos Florestais](http://www.esalq.usp.br/pg/programas/recursos-florestais) | ESALQ/USP |
-| A | Ciências Ambientais | Ciências Ambientais | ... | ... |
 | A | Ciências Ambientais | Ciências Ambientais | [Desastres Naturais](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/) | UNESP São José dos Campos |
-| A | Ciências Ambientais | Ciências Ambientais | ... | ... |
-| 3 | Ciências Ambientais | Ciências Ambientais | ... | ... |
-| 4 | Ciências Ambientais | Ciências Ambientais | ... | ... |
+| A | Ciências Ambientais | Ciências Ambientais |  |  |
+| 3 | Ciências Ambientais | Ciências Ambientais |  |  |
+| 4 | Ciências Ambientais | Ciências Ambientais |  |  |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Ambiente e Desenvolvimento](http://www.univates.br/ppgad) | UNIVATES |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Ambiente, Saúde e Sustentabilidade](https://www.fsp.usp.br/pos/programas/ambiente-saude-e-sustentabilidade/) | USP |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Ciência e Tecnologia Ambiental](http://www.univali.br/ppcta) | UNIVALI |
