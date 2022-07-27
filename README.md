@@ -5,18 +5,7 @@
 Compilei as informações dos cursos de pós-graduação na área da conservação ambiental e nas áreas correlatas utilizando a [Plataforma Sucupira](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoConceito.jsf;jsessionid=QYgAtGy9GTmsaDFQ65m-bfSJ.sucupira-214). 
 Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências Agrárias I, (iii) Ciências Ambientais e (iv) Interdisciplinar. Para a área de avaliação (i) Biodiversidade, excluí as áreas de conhecimento Botânica e Oceanografia. Para a área de avaliação (ii) Ciências Agrárias I, excluí as áreas de conhecimento Agronomia e Engenharia Agrícola e para a área Recursos Florestais e Engenharia Florestal selecionei apenas aqueles cursos que tivesse na grade curricular alguma disciplina de conservação ou área correlara. Para a área de avaliação (iii) Ciências Ambientais considerei todos os cursos e para a área (iv) Interdisciplinar, considerei apenas os cursos com interface ambiental ou com disciplinas de conservação na grade curricular.
 
-# Nota 7
-
-## Área de avaliação: Biodiversidade
-
-- Área de conhecimento: Ecologia
-
-[Ecologia - IB/USP](http://ecologia.ib.usp.br/pos)
-
-[Ecologia - UNICAMP](http://www.ib.unicamp.br/pos_ecologia/)
-
-[Ecologia e Evolução - UFG](http://www.ecoevol.ufg.br)
-
+Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas correlatas.
 
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
@@ -46,9 +35,9 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 | 6 | Biodiversidade | Ecologia | [Ecologia e Conservação](http://www.prppg.ufpr.br/site/ppgecologia/pb/) | UFPR |
 | 6 | Biodiversidade | Ecologia | [Ecologia](http://www.sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=4846) | UFRN |
 | 6 | Biodiversidade | Ecologia | [Ecologia](https://www.ufrgs.br/ppgecologia/) | UFRGS |
-| 7 | Biodiversidade | Ecologia |  |  |
-| 7 | Biodiversidade | Ecologia |  |  |
-| 7 | Biodiversidade | Ecologia |  |  |
+| 7 | Biodiversidade | Ecologia | [Ecologia](http://ecologia.ib.usp.br/pos) | IB/USP |
+| 7 | Biodiversidade | Ecologia | [Ecologia](http://www.ib.unicamp.br/pos_ecologia/) | UNICAMP |
+| 7 | Biodiversidade | Ecologia | [Ecologia e Evolução](http://www.ecoevol.ufg.br) | UFG |
 | A | Biodiversidade | Zoologia | [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
 | 3 | Biodiversidade | Zoologia |  ... | ... |
 | 4 | Biodiversidade | Zoologia |  ... | ... |
