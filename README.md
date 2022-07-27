@@ -107,44 +107,44 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 - Área de conhecimento: Ecologia
 
-[Biologia - UNISINOS](http://www.unisinos.br/mestrado-e-doutorado/biologia/presencial/sao-leopoldo)
 
-[Ecologia e Conservação da Biodiversidade - UESC](http://ecologiauesc.com/)
 
-[Ecologia Aplicada - UFLA](http://www.prpg.ufla.br/ecologia)
 
-[Ecologia e Conservação da Biodiversidade - UFMT](https://www.ecologia.ufmt.br)
 
-[Ecologia - UFSC](http://www.poseco.ufsc.br)
 
-[Ecologia, Conservação e Biodiversidade - UFU](http://www.ppgeco.ib.ufu.br/)
 
-[Ecologia Aquática e Pesca - UFPA](http://ppgeap.propesp.ufpa.br)
 
-[Sistemas Costeiros e Oceânicos - UFPR](http://www.cem.ufpr.br/?page_id=61)
 
-[Ecologia - UFRJ](http://www.ppge.ufrj.br)
 
-[Etnobiologia e Conservação da Natureza - UFRPE](http://www.pgetno.ufrpe.br/)
+
+
+
+
+
+
+
+
+
+
 
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
-| A | Biodiversidade | Ecologia |  [Biodiversidade e Conservação](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116) | UFPI | 
-| A | Biodiversidade | Ecologia |  [Conservação e Uso dos Recursos Naturais](https://ppgren.unir.br/homepage) | UNIR |
-| A | Biodiversidade | Ecologia |  [Biodiversidade](https://www.furb.br/web/5336/cursos/programa-pos-graduacao/biodiversidade/apresentacao) | FURB |
-| 3 | Biodiversidade | Ecologia |  ... | ... |
-| 4 | Biodiversidade | Ecologia |  ... | ... |
-| 5 | Biodiversidade | Ecologia |  ... | ... |
-| 5 | Biodiversidade | Ecologia |  ... | ... |
-| 5 | Biodiversidade | Ecologia |  ... | ... |
-| 5 | Biodiversidade | Ecologia |  ... | ... |
-| 5 | Biodiversidade | Ecologia |  ... | ... |
-| 5 | Biodiversidade | Ecologia |  ... | ... |
-| 5 | Biodiversidade | Ecologia |  ... | ... |
-| 5 | Biodiversidade | Ecologia |  ... | ... |
-| 5 | Biodiversidade | Ecologia |  ... | ... |
-| 5 | Biodiversidade | Ecologia |  ... | ... |
-| A | Biodiversidade | Zoologia |  [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
+| A | Biodiversidade | Ecologia | [Biodiversidade e Conservação](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116) | UFPI | 
+| A | Biodiversidade | Ecologia | [Conservação e Uso dos Recursos Naturais](https://ppgren.unir.br/homepage) | UNIR |
+| A | Biodiversidade | Ecologia | [Biodiversidade](https://www.furb.br/web/5336/cursos/programa-pos-graduacao/biodiversidade/apresentacao) | FURB |
+| 3 | Biodiversidade | Ecologia | ... | ... |
+| 4 | Biodiversidade | Ecologia | ... | ... |
+| 5 | Biodiversidade | Ecologia | [Biologia](http://www.unisinos.br/mestrado-e-doutorado/biologia/presencial/sao-leopoldo) | UNISINOS |
+| 5 | Biodiversidade | Ecologia | [Ecologia e Conservação da Biodiversidade](http://ecologiauesc.com/) | UESC |
+| 5 | Biodiversidade | Ecologia | [Ecologia Aplicada](http://www.prpg.ufla.br/ecologia) | UFLA |
+| 5 | Biodiversidade | Ecologia | [Ecologia e Conservação da Biodiversidade](https://www.ecologia.ufmt.br) | UFMT |
+| 5 | Biodiversidade | Ecologia | [Ecologia](http://www.poseco.ufsc.br) | UFSC |
+| 5 | Biodiversidade | Ecologia | [Ecologia, Conservação e Biodiversidade](http://www.ppgeco.ib.ufu.br/) | UFU |
+| 5 | Biodiversidade | Ecologia | [Ecologia Aquática e Pesca](http://ppgeap.propesp.ufpa.br) | UFPA |
+| 5 | Biodiversidade | Ecologia | [Sistemas Costeiros e Oceânicos](http://www.cem.ufpr.br/?page_id=61) | UFPR |
+| 5 | Biodiversidade | Ecologia | [Ecologia](http://www.ppge.ufrj.br) | UFRJ |
+| 5 | Biodiversidade | Ecologia | [Etnobiologia e Conservação da Natureza](http://www.pgetno.ufrpe.br/) | UFRPE |
+| A | Biodiversidade | Zoologia | [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
 | 3 | Biodiversidade | Zoologia |  ... | ... |
 | 4 | Biodiversidade | Zoologia |  ... | ... |
 | 5 | Biodiversidade | Zoologia | [Biodiversidade e Saúde](http://pgbs.ioc.fiocruz.br) | FIOCRUZ |
