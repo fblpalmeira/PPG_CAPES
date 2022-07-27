@@ -17,23 +17,6 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 [Ecologia e Evolução - UFG](http://www.ecoevol.ufg.br)
 
-- Área de conhecimento: Zoologia
-
-[Zoologia - IB/USP](http://poszoologia.ib.usp.br/)
-
-[Entomologia - FFCLRP/USP](https://sites.usp.br/entomologia/pb/)
-
-[Biodiversidade - IBILCE/UNESP](https://www.ibilce.unesp.br/#!/bioanimal)
-
-## Área de avaliação: Ciências Ambientais
-
-- Área de conhecimento: Ciências Ambientais
-
-[Desenvolvimento Sustentável - CDS/UNB](http://www.cds.unb.br)
-
-[Ciências Ambientais - IEE/USP](http://www.iee.usp.br/?q=pt-br/programa-de-p%C3%B3s-gradua%C3%A7%C3%A3o-em-ci%C3%AAncia-ambiental)
-
-[Ecologia Aplicada - ESALQ//USP](http://www.esalq.usp.br/pg/programas/ecologia-aplicada/)
 
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
@@ -80,24 +63,22 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 [Ciências Biológicas (Entomologia)](http://www.pgento.ufpr.br/) | UFPR |
 | 5 | Biodiversidade | Zoologia | [Zoologia](http://www.pgzoo.ufpr.br) | UFPR |
 | 5 | Biodiversidade | Zoologia | [Biologia Animal](http://www.ufrgs.br/ppgban/) | UFRGS |
-| 6 | Biodiversidade | Zoologia | [Biologia Comparada - FFCLRP/USP](http://sites.usp.br/biocomparada/pb/) |  |
-| 6 | Biodiversidade | Zoologia | [Zoologia - UNESP Botucatu](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/ciencias-biologicas-zoologia/apresentacao/) |  |
-| 6 | Biodiversidade | Zoologia | [Biologia Animal - UFPE](http://www.ufpe.br/ppgba) |  |
-| 6 | Biodiversidade | Zoologia | [Zoologia - UFRJ](https://ppgzoo.museunacional.ufrj.br/) |  |
-| 6 | Biodiversidade | Zoologia |  |  |
-| 6 | Biodiversidade | Zoologia |  |  |
-| 7 | Biodiversidade | Zoologia |  |  |
-| 7 | Biodiversidade | Zoologia |  |  |
-| 7 | Biodiversidade | Zoologia |  |  |
-| 7 | Biodiversidade | Zoologia |  |  |
+| 6 | Biodiversidade | Zoologia | [Biologia Comparada](http://sites.usp.br/biocomparada/pb/) | FFCLRP/USP |
+| 6 | Biodiversidade | Zoologia | [Zoologia](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/ciencias-biologicas-zoologia/apresentacao/) | UNESP Botucatu |
+| 6 | Biodiversidade | Zoologia | [Biologia Animal](http://www.ufpe.br/ppgba) | UFPE |
+| 6 | Biodiversidade | Zoologia | [Zoologia](https://ppgzoo.museunacional.ufrj.br/) | UFRJ |
+| 7 | Biodiversidade | Zoologia | [Zoologia](http://poszoologia.ib.usp.br/) | IB/USP |
+| 7 | Biodiversidade | Zoologia | [Entomologia](https://sites.usp.br/entomologia/pb/) | FFCLRP/USP |
+| 7 | Biodiversidade | Zoologia | [Biodiversidade](https://www.ibilce.unesp.br/#!/bioanimal) | IBILCE/UNESP |
 | A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciências de Florestas Tropicais](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/) | INPA |
 | 3 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://www.fca.unesp.br/#!/pg-ciencia-florestal) | UNESP Botucatu |
 | 4 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://poscienciaflorestal.ufv.br/) | UFV |
 | 5 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
-| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Recursos Florestais - ESALQ/USP](http://www.esalq.usp.br/pg/programas/recursos-florestais) |  |
+| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Recursos Florestais](http://www.esalq.usp.br/pg/programas/recursos-florestais) | ESALQ/USP |
 | 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
 | 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
 | 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
+
 | 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
 | 7 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
 | A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
@@ -107,7 +88,7 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 | A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
 | A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
 | A | Ciências Ambientais | Ciências Ambientais | ... | ... |
-| A | Ciências Ambientais | Ciências Ambientais | [Desatres Naturais](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/) | UNESP São José dos Campos |
+| A | Ciências Ambientais | Ciências Ambientais | [Desastres Naturais](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/) | UNESP São José dos Campos |
 | A | Ciências Ambientais | Ciências Ambientais | ... | ... |
 | 3 | Ciências Ambientais | Ciências Ambientais | ... | ... |
 | 4 | Ciências Ambientais | Ciências Ambientais | ... | ... |
@@ -127,14 +108,15 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 | 6 | Ciências Ambientais | Ciências Ambientais | [Ciência do Sistema Terrestre](http://www.ccst.inpe.br/servico/pos-graduacao-em-ciencia-do-sistema-terrestre/) | INPE |
 | 6 | Ciências Ambientais | Ciências Ambientais | [Ambiente e Sociedade](http://www.nepam.unicamp.br) | UNICAMP |
 | 6 | Ciências Ambientais | Ciências Ambientais | [Ciências Ambientais](https://ciamb.prpg.ufg.br/) | UFG |
-| 6 | Ciências Ambientais | Ciências Ambientais | ... | ... |
-| 7 | Ciências Ambientais | Ciências Ambientais | ... | ... |
+| 7 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento Sustentável](http://www.cds.unb.br) | CDS/UNB |
+| 7 | Ciências Ambientais | Ciências Ambientais | [Ciências Ambientais](http://www.iee.usp.br/?q=pt-br/programa-de-p%C3%B3s-gradua%C3%A7%C3%A3o-em-ci%C3%AAncia-ambiental) | IEE/USP |
+| 7 | Ciências Ambientais | Ciências Ambientais | [Ecologia Aplicada](http://www.esalq.usp.br/pg/programas/ecologia-aplicada/) | ESALQ//USP |
 | A | Interdisciplinar | Interdisciplinar | ... | ... |
 | 3 | Interdisciplinar | Interdisciplinar | ... | ... |
 | 4 | Interdisciplinar | Interdisciplinar | ... | ... |
-| 6 | Interdisciplinar | Interdisciplinar | [Modelagem Computacional - LNCC](http://posgrad.lncc.br/pt-br/) | ... |
-| 6 | Interdisciplinar | Interdisciplinar | [Desenvolvimento Sustentável do Trópico Úmido - UFPA](http://www.naea.ufpa.br/naea/novosite/) | ... |
-| 6 | Interdisciplinar | Interdisciplinar | [Desenvolvimento Rural - UFRGS](http://www.ufrgs.br/pgdr)  | ... |
+| 6 | Interdisciplinar | Interdisciplinar | [Modelagem Computacional](http://posgrad.lncc.br/pt-br/) | LNCC |
+| 6 | Interdisciplinar | Interdisciplinar | [Desenvolvimento Sustentável do Trópico Úmido](http://www.naea.ufpa.br/naea/novosite/) | UFPA |
+| 6 | Interdisciplinar | Interdisciplinar | [Desenvolvimento Rural](http://www.ufrgs.br/pgdr) | UFRGS |
 | 7 | Interdisciplinar | Interdisciplinar | ... | ... |
 | 7 | Interdisciplinar | Interdisciplinar | ... | ... |
 
