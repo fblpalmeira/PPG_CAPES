@@ -35,35 +35,6 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 [Ecologia Aplicada - ESALQ//USP](http://www.esalq.usp.br/pg/programas/ecologia-aplicada/)
 
-
-# Nota 6
-
-## Área de avaliação: Biodiversidade
-
-- Área de conhecimento: Ecologia
-
-[Ecologia e Conservação - UFMS](http://ppgec.ufms.br)
-
-[Ecologia - INPA](http://pgeco.inpa.gov.br)
-
-[Ecologia - UNB](http://pgeclunb.net.br)
-
-[Ecologia e Evolução - UERJ](https://ppgee.uerj.br)
-
-[Ecologia de Ambientes Aquáticos e Continentais - UEM](http://www.pea.uem.br)
-
-[Ecologia e Recursos Naturais - UENF](https://uenf.br/posgraduacao/ecologia-recursosnaturais/)
-
-[Ecologia: Teoria, Aplicação e Valores - UFBA](https://ecologia.ufba.br/)
-
-[Ecologia, Conservação e Manejo da Vida Silvestre - UFMG](http://www.ufmg.br/pos/ecologia)
-
-[Ecologia e Conservação - UFPR](http://www.prppg.ufpr.br/site/ppgecologia/pb/)
-
-[Ecologia - UFRN](http://www.sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=4846)
-
-[Ecologia - UFRGS](https://www.ufrgs.br/ppgecologia/)
-
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
 | A | Biodiversidade | Ecologia | [Biodiversidade e Conservação](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116) | UFPI | 
@@ -81,15 +52,20 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 | 5 | Biodiversidade | Ecologia | [Sistemas Costeiros e Oceânicos](http://www.cem.ufpr.br/?page_id=61) | UFPR |
 | 5 | Biodiversidade | Ecologia | [Ecologia](http://www.ppge.ufrj.br) | UFRJ |
 | 5 | Biodiversidade | Ecologia | [Etnobiologia e Conservação da Natureza](http://www.pgetno.ufrpe.br/) | UFRPE |
-| 6 | Biodiversidade | Ecologia | ... | ... |
-| 6 | Biodiversidade | Ecologia | ... | ... |
-| 6 | Biodiversidade | Ecologia | ... | ... |
-| 6 | Biodiversidade | Ecologia | ... | ... |
-| 6 | Biodiversidade | Ecologia | ... | ... |
-| 6 | Biodiversidade | Ecologia | ... | ... |
-| 7 | Biodiversidade | Ecologia | ... | ... |
-| 7 | Biodiversidade | Ecologia | ... | ... |
-
+| 6 | Biodiversidade | Ecologia | [Ecologia e Conservação](http://ppgec.ufms.br) | UFMS |
+| 6 | Biodiversidade | Ecologia | [Ecologia](http://pgeco.inpa.gov.br) | INPA |
+| 6 | Biodiversidade | Ecologia | [Ecologia](http://pgeclunb.net.br) | UNB |
+| 6 | Biodiversidade | Ecologia | [Ecologia e Evolução](https://ppgee.uerj.br) | UERJ |
+| 6 | Biodiversidade | Ecologia | [Ecologia de Ambientes Aquáticos e Continentais](http://www.pea.uem.br) | UEM |
+| 6 | Biodiversidade | Ecologia | [Ecologia e Recursos Naturais](https://uenf.br/posgraduacao/ecologia-recursosnaturais/) | UENF |
+| 6 | Biodiversidade | Ecologia | [Ecologia: Teoria, Aplicação e Valores](https://ecologia.ufba.br/) | UFBA |
+| 6 | Biodiversidade | Ecologia | [Ecologia, Conservação e Manejo da Vida Silvestre](http://www.ufmg.br/pos/ecologia) | UFMG |
+| 6 | Biodiversidade | Ecologia | [Ecologia e Conservação](http://www.prppg.ufpr.br/site/ppgecologia/pb/) | UFPR |
+| 6 | Biodiversidade | Ecologia | [Ecologia](http://www.sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=4846) | UFRN |
+| 6 | Biodiversidade | Ecologia | [Ecologia](https://www.ufrgs.br/ppgecologia/) | UFRGS |
+| 7 | Biodiversidade | Ecologia |  |  |
+| 7 | Biodiversidade | Ecologia |  |  |
+| 7 | Biodiversidade | Ecologia |  |  |
 | A | Biodiversidade | Zoologia | [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
 | 3 | Biodiversidade | Zoologia |  ... | ... |
 | 4 | Biodiversidade | Zoologia |  ... | ... |
