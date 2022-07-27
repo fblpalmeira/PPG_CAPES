@@ -78,7 +78,7 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 3 | Ciências Ambientais | Ciências Ambientais | ... | ... |
 | 4 | Ciências Ambientais | Ciências Ambientais | ... | ... |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Ambiente e Desenvolvimento](http://www.univates.br/ppgad) | UNIVATES |
-| 5 | Ciências Ambientais | Ciências Ambientais | [Ambiente, Saúde e Sustentabilidade - USP](https://www.fsp.usp.br/pos/programas/ambiente-saude-e-sustentabilidade/) | ... |
+| 5 | Ciências Ambientais | Ciências Ambientais | [Ambiente, Saúde e Sustentabilidade](https://www.fsp.usp.br/pos/programas/ambiente-saude-e-sustentabilidade/) | USP |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Ciência e Tecnologia Ambiental](http://www.univali.br/ppcta) | UNIVALI |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente](http://www.ufpe.br/prodema) | UFPE |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Ciências Marinhas Tropicais](https://ppgcmt.ufc.br/pt/) | UFC |
@@ -88,8 +88,6 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente]() | ... |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Qualidade Ambiental](https://www.feevale.br/pgqualidadeambiental) | FEEVALE |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Gestão Ambiental](https://www.up.edu.br/mestrado-e-doutorado/mestrado-em-gestao-ambiental/) | UP |
-| 6 | Ciências Ambientais | Ciências Ambientais | 
- | ... |
 | 6 | Ciências Ambientais | Ciências Ambientais | [Ciência do Sistema Terrestre](http://www.ccst.inpe.br/servico/pos-graduacao-em-ciencia-do-sistema-terrestre/) | INPE |
 | 6 | Ciências Ambientais | Ciências Ambientais | [Ambiente e Sociedade](http://www.nepam.unicamp.br) | UNICAMP |
 | 6 | Ciências Ambientais | Ciências Ambientais | [Ciências Ambientais](https://ciamb.prpg.ufg.br/) | UFG |
