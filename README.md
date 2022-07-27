@@ -64,43 +64,6 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 [Ecologia - UFRGS](https://www.ufrgs.br/ppgecologia/)
 
-- Área de conhecimento: Zoologia
-
-[Biologia Comparada - FFCLRP/USP](http://sites.usp.br/biocomparada/pb/)
-
-[Zoologia - UNESP Botucatu](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/ciencias-biologicas-zoologia/apresentacao/)
-
-[Biologia Animal - UFPE](http://www.ufpe.br/ppgba)
-
-[Zoologia - UFRJ](https://ppgzoo.museunacional.ufrj.br/)
-
-## Área de avaliação: Ciências Agrárias I 
-
-- Área de conhecimento: Recursos Florestais e Engenharia Florestal 
-
-[Recursos Florestais - ESALQ/USP](http://www.esalq.usp.br/pg/programas/recursos-florestais)
-
-## Área de avaliação: Ciências Ambientais
-
-- Área de conhecimento: Ciências Ambientais
-
-[Ciência do Sistema Terrestre - INPE](http://www.ccst.inpe.br/servico/pos-graduacao-em-ciencia-do-sistema-terrestre/)
-
-[Ambiente e Sociedade - UNICAMP](http://www.nepam.unicamp.br)
-
-[Ciências Ambientais - UFG](https://ciamb.prpg.ufg.br/)
-
-## Área de avaliação: Interdisciplinar
-
-- Área de conhecimento: Interdisciplinar
-
-[Modelagem Computacional - LNCC](http://posgrad.lncc.br/pt-br/)
-
-[Desenvolvimento Sustentável do Trópico Úmido - UFPA](http://www.naea.ufpa.br/naea/novosite/)
-
-[Desenvolvimento Rural - UFRGS](http://www.ufrgs.br/pgdr)
-
-
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
 | A | Biodiversidade | Ecologia | [Biodiversidade e Conservação](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116) | UFPI | 
@@ -141,16 +104,32 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 [Ciências Biológicas (Entomologia)](http://www.pgento.ufpr.br/) | UFPR |
 | 5 | Biodiversidade | Zoologia | [Zoologia](http://www.pgzoo.ufpr.br) | UFPR |
 | 5 | Biodiversidade | Zoologia | [Biologia Animal](http://www.ufrgs.br/ppgban/) | UFRGS |
-| 6 | Biodiversidade | Zoologia |  ... | ... |
-| 6 | Biodiversidade | Zoologia |  ... | ... |
-| 6 | Biodiversidade | Zoologia |  ... | ... |
-| 6 | Biodiversidade | Zoologia |  ... | ... |
-| 6 | Biodiversidade | Zoologia |  ... | ... |
-| 6 | Biodiversidade | Zoologia |  ... | ... |
-| 7 | Biodiversidade | Zoologia |  ... | ... |
-| 7 | Biodiversidade | Zoologia |  ... | ... |
-| 7 | Biodiversidade | Zoologia |  ... | ... |
-| 7 | Biodiversidade | Zoologia |  ... | ... |
+| 6 | Biodiversidade | Zoologia | [Biologia Comparada - FFCLRP/USP](http://sites.usp.br/biocomparada/pb/) |  |
+| 6 | Biodiversidade | Zoologia | [Zoologia - UNESP Botucatu](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/ciencias-biologicas-zoologia/apresentacao/) |  |
+| 6 | Biodiversidade | Zoologia | [Biologia Animal - UFPE](http://www.ufpe.br/ppgba) |  |
+| 6 | Biodiversidade | Zoologia | [Zoologia - UFRJ](https://ppgzoo.museunacional.ufrj.br/) |  |
+| 6 | Biodiversidade | Zoologia |  |  |
+| 6 | Biodiversidade | Zoologia |  |  |
+| 7 | Biodiversidade | Zoologia |  |  |
+| 7 | Biodiversidade | Zoologia |  |  |
+| 7 | Biodiversidade | Zoologia |  |  |
+| 7 | Biodiversidade | Zoologia |  |  |
+| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciências de Florestas Tropicais](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/) | INPA |
+| 3 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://www.fca.unesp.br/#!/pg-ciencia-florestal) | UNESP Botucatu |
+| 4 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://poscienciaflorestal.ufv.br/) | UFV |
+| 5 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
+| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Recursos Florestais - ESALQ/USP](http://www.esalq.usp.br/pg/programas/recursos-florestais) |  |
+| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
+| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
+| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
+| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
+| 7 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
 | A | Ciências Ambientais | Ciências Ambientais | ... | ... |
 | A | Ciências Ambientais | Ciências Ambientais | [Desatres Naturais](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/) | UNESP São José dos Campos |
 | A | Ciências Ambientais | Ciências Ambientais | ... | ... |
@@ -167,25 +146,19 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 | 5 | Ciências Ambientais | Ciências Ambientais | [Desenvolvimento e Meio Ambiente]() | ... |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Qualidade Ambiental](https://www.feevale.br/pgqualidadeambiental) | FEEVALE |
 | 5 | Ciências Ambientais | Ciências Ambientais | [Gestão Ambiental](https://www.up.edu.br/mestrado-e-doutorado/mestrado-em-gestao-ambiental/) | UP |
-| 6 | Ciências Ambientais | Ciências Ambientais | ... | ... |
-| 6 | Ciências Ambientais | Ciências Ambientais | ... | ... |
-| 6 | Ciências Ambientais | Ciências Ambientais | ... | ... |
-| 6 | Ciências Ambientais | Ciências Ambientais | ... | ... |
+| 6 | Ciências Ambientais | Ciências Ambientais | 
+ | ... |
+| 6 | Ciências Ambientais | Ciências Ambientais | [Ciência do Sistema Terrestre](http://www.ccst.inpe.br/servico/pos-graduacao-em-ciencia-do-sistema-terrestre/) | INPE |
+| 6 | Ciências Ambientais | Ciências Ambientais | [Ambiente e Sociedade](http://www.nepam.unicamp.br) | UNICAMP |
+| 6 | Ciências Ambientais | Ciências Ambientais | [Ciências Ambientais](https://ciamb.prpg.ufg.br/) | UFG |
 | 6 | Ciências Ambientais | Ciências Ambientais | ... | ... |
 | 7 | Ciências Ambientais | Ciências Ambientais | ... | ... |
-| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciências de Florestas Tropicais](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/) | INPA |
-| 3 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://www.fca.unesp.br/#!/pg-ciencia-florestal) | UNESP Botucatu |
-| 4 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://poscienciaflorestal.ufv.br/) | UFV |
-| 5 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
-| 5 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
-| 5 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
-| 5 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
-| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
-
 | A | Interdisciplinar | Interdisciplinar | ... | ... |
 | 3 | Interdisciplinar | Interdisciplinar | ... | ... |
 | 4 | Interdisciplinar | Interdisciplinar | ... | ... |
-| 5 | Interdisciplinar | Interdisciplinar | ... | ... |
-| 6 | Interdisciplinar | Interdisciplinar | ... | ... |
-| 6 | Interdisciplinar | Interdisciplinar | ... | ... |
-| 6 | Interdisciplinar | Interdisciplinar | ... | ... |
+| 6 | Interdisciplinar | Interdisciplinar | [Modelagem Computacional - LNCC](http://posgrad.lncc.br/pt-br/) | ... |
+| 6 | Interdisciplinar | Interdisciplinar | [Desenvolvimento Sustentável do Trópico Úmido - UFPA](http://www.naea.ufpa.br/naea/novosite/) | ... |
+| 6 | Interdisciplinar | Interdisciplinar | [Desenvolvimento Rural - UFRGS](http://www.ufrgs.br/pgdr)  | ... |
+| 7 | Interdisciplinar | Interdisciplinar | ... | ... |
+| 7 | Interdisciplinar | Interdisciplinar | ... | ... |
+
