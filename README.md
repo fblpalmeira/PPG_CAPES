@@ -102,6 +102,4 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 6 | Interdisciplinar | Interdisciplinar | [Modelagem Computacional](http://posgrad.lncc.br/pt-br/) | LNCC |
 | 6 | Interdisciplinar | Interdisciplinar | [Desenvolvimento Sustentável do Trópico Úmido](http://www.naea.ufpa.br/naea/novosite/) | UFPA |
 | 6 | Interdisciplinar | Interdisciplinar | [Desenvolvimento Rural](http://www.ufrgs.br/pgdr) | UFRGS |
-| 7 | Interdisciplinar | Interdisciplinar | ... | ... |
-| 7 | Interdisciplinar | Interdisciplinar | ... | ... |
 
