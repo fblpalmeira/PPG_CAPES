@@ -1,7 +1,5 @@
 # Lista dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAPES
 
-## Por Francesca B. L. Palmeira 
-
 Compilei as informações dos cursos de pós-graduação na área da conservação ambiental e nas áreas correlatas utilizando a [Plataforma Sucupira](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoConceito.jsf;jsessionid=QYgAtGy9GTmsaDFQ65m-bfSJ.sucupira-214). 
 Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências Agrárias I, (iii) Ciências Ambientais e (iv) Interdisciplinar. Para a área de avaliação (i) Biodiversidade, excluí as áreas de conhecimento Botânica e Oceanografia. Para a área de avaliação (ii) Ciências Agrárias I, excluí as áreas de conhecimento Agronomia e Engenharia Agrícola e para a área Recursos Florestais e Engenharia Florestal selecionei apenas aqueles cursos que tivesse na grade curricular alguma disciplina de conservação ou área correlara. Para a área de avaliação (iii) Ciências Ambientais considerei todos os cursos e para a área (iv) Interdisciplinar, considerei apenas os cursos com interface ambiental ou com disciplinas de conservação na grade curricular.
 
@@ -58,23 +56,22 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 7 | Biodiversidade | Zoologia | [Zoologia](http://poszoologia.ib.usp.br/) | IB/USP |
 | 7 | Biodiversidade | Zoologia | [Entomologia](https://sites.usp.br/entomologia/pb/) | FFCLRP/USP |
 | 7 | Biodiversidade | Zoologia | [Biodiversidade](https://www.ibilce.unesp.br/#!/bioanimal) | IBILCE/UNESP |
-| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciências de Florestas Tropicais](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/) | INPA |
-| 3 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://www.fca.unesp.br/#!/pg-ciencia-florestal) | UNESP Botucatu |
-| 4 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://poscienciaflorestal.ufv.br/) | UFV |
-| 5 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
-| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal | [Recursos Florestais](http://www.esalq.usp.br/pg/programas/recursos-florestais) | ESALQ/USP |
-| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
-| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
-| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal |  |  |
-
-| 6 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
-| 7 | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
-| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
-| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
-| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
-| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
-| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
-| A | Ciências Agrárias I | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Ciências de Florestas Tropicais](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/) | INPA |
+| 3 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://www.fca.unesp.br/#!/pg-ciencia-florestal) | UNESP Botucatu |
+| 4 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://poscienciaflorestal.ufv.br/) | UFV |
+| 5 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
+| 6 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Recursos Florestais](http://www.esalq.usp.br/pg/programas/recursos-florestais) | ESALQ/USP |
+| 6 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal |  |  |
+| 6 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal |  |  |
+| 6 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal |  |  |
+| 6 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal  |  |  |
+| 7 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias | Recursos Florestais e Engenharia Florestal  |  |  |
+| A | Ciências Agrárias | Recursos Florestais e Engenharia Florestal  |  |  |
 | A | Ciências Ambientais | Ciências Ambientais | ... | ... |
 | A | Ciências Ambientais | Ciências Ambientais | [Desastres Naturais](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/) | UNESP São José dos Campos |
 | A | Ciências Ambientais | Ciências Ambientais | ... | ... |
