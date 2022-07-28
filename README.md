@@ -61,8 +61,22 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 7 | Biodiversidade | Ecologia | [Ecologia](http://www.ib.unicamp.br/pos_ecologia/) | UNICAMP |
 | 7 | Biodiversidade | Ecologia | [Ecologia e Evolução](http://www.ecoevol.ufg.br) | UFG |
 | A | Biodiversidade | Zoologia | [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
-| 3 | Biodiversidade | Zoologia |  |  |
-| 4 | Biodiversidade | Zoologia |  |  |
+| 3 | Biodiversidade | Zoologia | []() |  |
+| 4 | Biodiversidade | Zoologia | [Biologia de Vertebrados](http://www.pucminas.br/zoologia) | PUCMG |
+| 4 | Biodiversidade | Zoologia | [Zoologia](http://pgzoounb.net.br/index.php/pt/) | UNB |
+| 4 | Biodiversidade | Zoologia | [Sistemática, Taxonomia Animal e Biodiversidade](http://www.mz.usp.br) | USP |
+| 4 | Biodiversidade | Zoologia | [Ciências Biológicas](http://www.uel.br/pos/biologicas/) | UEL |
+| 4 | Biodiversidade | Zoologia | [Biociências](:http://www.assis.unesp.br/#!/pos-graduacao/cursos/biociencias/ | UNESP Assis |
+| 4 | Biodiversidade | Zoologia | [Biodiversidade e Evolução](http://www.ppgbioevo.bio.ufba.br/) | UFBA |
+| 4 | Biodiversidade | Zoologia | [Entomologia e Conservação da Biodiversidade](http://www.ufgd.edu.br/fcba/mestrado-entomologia-conservacao-biodiversidade) | UFGD |
+| 4 | Biodiversidade | Zoologia | [Biodiversidade Animal](http://biodiversidadeanimal.icb.ufg.br/) | UFG |
+| 4 | Biodiversidade | Zoologia | [Biodiversidade Animal](http://www.ufsm.br/pbiod) | UFSM |
+| 4 | Biodiversidade | Zoologia | [Biologia Animal](http://www.posbioanimal.ufv.br) | UFV |
+| 4 | Biodiversidade | Zoologia | [Zoologia](http://portal.inpa.gov.br) | UFAM |
+| 4 | Biodiversidade | Zoologia | [Ciências Biológicas](http://www.cienciasbiologicas.ufes.br/pos-graduacao/PPGBAN) | UFES |
+| 4 | Biodiversidade | Zoologia | [Ciências Biológicas (Biodiversidade Neotropical)](http://www.unirio.br/ccbs/ibio/ppgbio) | UNIRIO |
+| 4 | Biodiversidade | Zoologia | [Sistemática e Evolução](http://www.posgraduacao.ufrn.br/pse) | UFRN |
+| 4 | Biodiversidade | Zoologia | [Biologia Animal](http://www.ufrrj.br/posgrad/cpgba/) | UFRRJ |
 | 5 | Biodiversidade | Zoologia | [Biodiversidade e Saúde](http://pgbs.ioc.fiocruz.br) | FIOCRUZ |
 | 5 | Biodiversidade | Zoologia | [Entomologia](https://w2.solucaoatrio.net.br/somos/inpa-ent/index.php/pt/apresentacao) | INPA |
 | 5 | Biodiversidade | Zoologia | [Ecologia e Evolução da Biodiversidade](https://www.pucrs.br/saude/programa-de-pos-graduacao-em-ecologia-e-evolucao-da-biodiversidade/) | PUCRS |
