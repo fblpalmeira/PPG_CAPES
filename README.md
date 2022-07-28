@@ -12,7 +12,7 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | A | Biodiversidade | Ecologia | [Biodiversidade](https://www.furb.br/web/5336/cursos/programa-pos-graduacao/biodiversidade/apresentacao) | FURB |
 | 3 | Biodiversidade | Ecologia | [Biodiversidade, Ecologia e Conservação](https://ww2.uft.edu.br/ppgbec) | UFT |
 | 3 | Biodiversidade | Ecologia | [Biodiversidade e Conservação](https://sistemas.ifgoiano.edu.br/sgcursos/index.php?id_curso=Nw==&p=pos-graduacao) | IF Goiano |
-| 3 | Biodiversidade | Ecologia | [Biodiversidade e Uso dos Recursos Naturais](http://www.ppgcb.unimontes.br) | UNIMONTES |
+| 3 | Biodiversidade | Ecologia | [Biodiversidade e Uso dos Recursos Naturais](https://unimontes.br/tag/biodiversidade-e-uso-dos-recursos-naturais/) | UNIMONTES |
 | 3 | Biodiversidade | Ecologia | [Sistemas Aquáticos Tropicais](http://nbcgib.uesc.br/ppgsat/) | UESC |
 | 3 | Biodiversidade | Ecologia | [Ecologia e Conservação da Biodiversidade](http://www.ppgrap.uema.br) | UEMA |
 | 3 | Biodiversidade | Ecologia | [Biodiversidade e Meio Ambiente](https://www.ufgd.edu.br/pos-graduacao/mestrado-biodiversidade-meioambiente/index) | UFGD |
