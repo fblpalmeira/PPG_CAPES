@@ -61,7 +61,15 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 7 | Biodiversidade | Ecologia | [Ecologia](http://www.ib.unicamp.br/pos_ecologia/) | UNICAMP |
 | 7 | Biodiversidade | Ecologia | [Ecologia e Evolução](http://www.ecoevol.ufg.br) | UFG |
 | A | Biodiversidade | Zoologia | [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
-| 3 | Biodiversidade | Zoologia | []() |  |
+| 3 | Biodiversidade | Zoologia | [Biologia Animal](https://ppgbioanimal.ufms.br/) | UFMS |
+| 3 | Biodiversidade | Zoologia | [Ecologia e Evolução](http://www.ecoevol.uefs.br/) | UEFS |
+| 3 | Biodiversidade | Zoologia | [Biologia Evolutiva](http://www.uepg.br) | UNICENTRO |
+| 3 | Biodiversidade | Zoologia | [Genética, Biodiversidade e Conservação](http://www.ppggbc.biouesb.com) | UESB |
+| 3 | Biodiversidade | Zoologia | [Zoologia](https://www.ufmt.br/ppgzoologia/) | UFMT |
+| 3 | Biodiversidade | Zoologia | [Biodiversidade Animal](www.ufpel.edu.br) | UFPEL |
+| 3 | Biodiversidade | Zoologia | [Conservação da Fauna](http://www.ppgcfau.ufscar.br) | UFSCAR |
+| 3 | Biodiversidade | Zoologia | [Biodiversidade e Conservação](http://www.ppgbc.ufma.br) | UFMA |
+| 3 | Biodiversidade | Zoologia | [Biologia Animal](http://portal.ufvjm.edu.br/prppg/pos-graduacao/stricto-sensu) | UFVJM |
 | 4 | Biodiversidade | Zoologia | [Biologia de Vertebrados](http://www.pucminas.br/zoologia) | PUCMG |
 | 4 | Biodiversidade | Zoologia | [Zoologia](http://pgzoounb.net.br/index.php/pt/) | UNB |
 | 4 | Biodiversidade | Zoologia | [Sistemática, Taxonomia Animal e Biodiversidade](http://www.mz.usp.br) | USP |
