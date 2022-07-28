@@ -21,7 +21,7 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 3 | Biodiversidade | Ecologia | [Ecologia e Monitoramento Ambiental](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=1897) | UFPB Rio Tinto |
 | 3 | Biodiversidade | Ecologia | [Ecologia de Biomas Tropicais](http://www.biomas.ufop.br) | UFOP |
 | 3 | Biodiversidade | Ecologia | [Periciais Criminais Ambientais](http://mppa.posgrad.ufsc.br) | UFSC |
-| 3 | Biodiversidade | Ecologia | [Ecologia](http://www.ufsj.edu.br/) | UFSJ |
+| 3 | Biodiversidade | Ecologia | [Ecologia](https://ufsj.edu.br/pge/) | UFSJ |
 | 3 | Biodiversidade | Ecologia | [Ecologia e Evolução](http://ppg.unifesp.br/ecologiaeevolucao) | UNIFESP |
 | 3 | Biodiversidade | Ecologia | [Ecologia e Manejo dos Recursos Naturais](http://www2.ufac.br/emrn) | UFAC |
 | 3 | Biodiversidade | Ecologia | [Biodiversidade](http://www.ufopa.edu.br) | UFOPA |
