@@ -25,7 +25,7 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 3 | Biodiversidade | Ecologia | [Ecologia e Evolução](http://ppg.unifesp.br/ecologiaeevolucao) | UNIFESP |
 | 3 | Biodiversidade | Ecologia | [Ecologia e Manejo dos Recursos Naturais](http://www2.ufac.br/emrn) | UFAC |
 | 3 | Biodiversidade | Ecologia | [Biodiversidade](https://sigaa.ufopa.edu.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=895) | UFOPA |
-| 3 | Biodiversidade | Ecologia | [Biodiversidade e Conservação](http://www.portal.ufpa.br/) | UFPA |
+| 3 | Biodiversidade | Ecologia | [Biodiversidade e Conservação](https://ppgbc.propesp.ufpa.br/index.php/br/) | UFPA |
 | 3 | Biodiversidade | Ecologia | [Biodiversidade e Conservação](http://www.pgbc.ufrpe.br/) | UFRPE |
 | 3 | Biodiversidade | Ecologia | [Ecologia e Conservação](http://www.ufersa.edu.br) | UFERSA |
 | 3 | Biodiversidade | Ecologia | [Diversidade Biológica e Recursos Naturais](http://mbm.urca.br) | URCA |
