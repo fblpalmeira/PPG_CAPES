@@ -74,7 +74,7 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 4 | Biodiversidade | Zoologia | [Zoologia](http://pgzoounb.net.br/index.php/pt/) | UNB |
 | 4 | Biodiversidade | Zoologia | [Sistemática, Taxonomia Animal e Biodiversidade](http://www.mz.usp.br) | USP |
 | 4 | Biodiversidade | Zoologia | [Ciências Biológicas](http://www.uel.br/pos/biologicas/) | UEL |
-| 4 | Biodiversidade | Zoologia | [Biociências](:http://www.assis.unesp.br/#!/pos-graduacao/cursos/biociencias/ | UNESP Assis |
+| 4 | Biodiversidade | Zoologia | [Biociências](http://www.assis.unesp.br/#!/pos-graduacao/cursos/biociencias/) | UNESP Assis |
 | 4 | Biodiversidade | Zoologia | [Biodiversidade e Evolução](http://www.ppgbioevo.bio.ufba.br/) | UFBA |
 | 4 | Biodiversidade | Zoologia | [Entomologia e Conservação da Biodiversidade](http://www.ufgd.edu.br/fcba/mestrado-entomologia-conservacao-biodiversidade) | UFGD |
 | 4 | Biodiversidade | Zoologia | [Biodiversidade Animal](http://biodiversidadeanimal.icb.ufg.br/) | UFG |
