@@ -35,7 +35,7 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 4 | Biodiversidade | Ecologia | [Ecologia e Conservação](https://www.sigaa.ufs.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=225) | UFSE |
 | 4 | Biodiversidade | Ecologia | [Biodiversidade em Unidades de Conservação](http://www.jbrj.gov.br) | JBRJ |
 | 4 | Biodiversidade | Ecologia | [Conservação da Biodiversidade e Desenvolvimento Sustentável](http://www.escas.org.br) | IPÊ/ESCAS |
-| 4 | Biodiversidade | Ecologia | [Ciências Biológicas](http://pg.inpa.gov.br/badpi.html) | INPA |
+| 4 | Biodiversidade | Ecologia | [Ciências Biológicas (Biologia de Água Doce e Pesca Interior)](https://w2.solucaoatrio.net.br/somos/inpa-badpi/index.php/pt/) | INPA |
 | 4 | Biodiversidade | Ecologia | [Biodiversidade e Evolução](http://www.museu-goeldi.br/portal/ppgbe) | MPEG |
 | 4 | Biodiversidade | Ecologia | [Ecologia e Conservação](http://www.unemat.br/prppg/ecologia/) | UNEMAT |
 | 4 | Biodiversidade | Ecologia | [Ecologia e Conservação](http://pos-graduacao.uepb.edu.br/ppgec/) | UEPB |
