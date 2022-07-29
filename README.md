@@ -37,7 +37,7 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 4 | Biodiversidade | Ecologia | [Conservação da Biodiversidade e Desenvolvimento Sustentável](http://www.escas.org.br) | IPÊ/ESCAS |
 | 4 | Biodiversidade | Ecologia | [Ciências Biológicas (Biologia de Água Doce e Pesca Interior)](https://w2.solucaoatrio.net.br/somos/inpa-badpi/index.php/pt/) | INPA |
 | 4 | Biodiversidade | Ecologia | [Biodiversidade e Evolução](http://www.museu-goeldi.br/portal/ppgbe) | MPEG |
-| 4 | Biodiversidade | Ecologia | [Ecologia e Conservação](http://www.unemat.br/prppg/ecologia/) | UNEMAT |
+| 4 | Biodiversidade | Ecologia | [Ecologia e Conservação](http://portal.unemat.br/ppgec) | UNEMAT |
 | 4 | Biodiversidade | Ecologia | [Ecologia e Conservação](http://pos-graduacao.uepb.edu.br/ppgec/) | UEPB |
 | 4 | Biodiversidade | Ecologia | [Biologia Comparada](http://www.pgb.uem.br) | UEM |
 | 4 | Biodiversidade | Ecologia | [Ecologia, Evolução e Biodiversidade](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/) | UNESP Rio Claro |
