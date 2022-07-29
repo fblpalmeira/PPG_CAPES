@@ -47,7 +47,7 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 4 | Biodiversidade | Ecologia | [Biodiversidade e Conservação da Natureza](https://www2.ufjf.br/ppgbiodiversidade/) | UFJF |
 | 4 | Biodiversidade | Ecologia | [Ecologia e Recursos Naturais](https://www.ppgern.ufscar.br) | UFSCAR |
 | 4 | Biodiversidade | Ecologia | [Ecologia](http://www.posecologia.ufv.br/) | UFV |
-| 4 | Biodiversidade | Ecologia | [Evolução e Diversidade](http://neuro.ufabc.edu.br/) | UFABC |
+| 4 | Biodiversidade | Ecologia | [Evolução e Diversidade](https://propg.ufabc.edu.br/evodiv/) | UFABC |
 | 4 | Biodiversidade | Ecologia | [Biodiversidade Tropical](http://www2.unifap.br/ppgbio) | UNIFAP |
 | 4 | Biodiversidade | Ecologia | [Ecologia e Recursos Naturais](http://www.ppgern.ufc.br) | UFC |
 | 4 | Biodiversidade | Ecologia | [Ecologia](http://www.ppgeco.propesp.ufpa.br) | UFPA |
