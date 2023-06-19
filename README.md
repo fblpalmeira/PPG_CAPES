@@ -1,11 +1,11 @@
 # Lista dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAPES
 
-Compilei as informações dos cursos de pós-graduação na área da **conservação ambiental** e nas áreas correlatas utilizando a [Plataforma Sucupira](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoConceito.jsf;jsessionid=QYgAtGy9GTmsaDFQ65m-bfSJ.sucupira-214). 
+Compilei as informações dos cursos de pós-graduação na área da **Conservação Ambiental** e nas áreas correlatas utilizando a [Plataforma Sucupira](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoConceito.jsf;jsessionid=QYgAtGy9GTmsaDFQ65m-bfSJ.sucupira-214). 
 Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências Agrárias I, (iii) Ciências Ambientais e (iv) Interdisciplinar. 
 
-Para a área de avaliação (i) Biodiversidade, ainda não inclui as áreas de conhecimento Botânica e Oceanografia. Para a área de avaliação (ii) Ciências Agrárias I, considerei apenas a área Recursos Florestais e Engenharia Florestal e selecionei apenas aqueles cursos que tivesse na grade curricular alguma disciplina de **conservação** ou área correlata. Para a área de avaliação (iii) Ciências Ambientais considerei todos os cursos e para a área (iv) Interdisciplinar, considerei apenas os cursos com interface ambiental ou com disciplinas de **conservação** na grade curricular.
+Para a área de avaliação (i) Biodiversidade, ainda não inclui as áreas de conhecimento Botânica e Oceanografia. Para a área de avaliação (ii) Ciências Agrárias I, considerei apenas a área Recursos Florestais e Engenharia Florestal e selecionei apenas aqueles cursos que tivesse na grade curricular alguma disciplina de **Conservação** ou área correlata. Para a área de avaliação (iii) Ciências Ambientais considerei todos os cursos e para a área (iv) Interdisciplinar, considerei apenas os cursos com interface ambiental ou com disciplinas de **Conservação** na grade curricular.
 
-Tabela 1. Lista do cursos de pós-graduação na Área de Conhecimento "Ecologia" dentro da Área de Avaliação "Biodiversidade".
+**Tabela 1.** Lista do cursos de pós-graduação na Área de Conhecimento **"Ecologia"** dentro da Área de Avaliação **"Biodiversidade"**.
 
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ----------------------- | ----------- |
@@ -79,7 +79,7 @@ Tabela 1. Lista do cursos de pós-graduação na Área de Conhecimento "Ecologia
 | 7 | Biodiversidade | Ecologia | [Ecologia](http://www.ib.unicamp.br/pos_ecologia/) | UNICAMP |
 | 7 | Biodiversidade | Ecologia | [Ecologia e Evolução](http://www.ecoevol.ufg.br) | UFG |
 
-Tabela 2. Lista do cursos de pós-graduação na Área de Conhecimento "Zoologia" dentro da Área de Avaliação "Biodiversidade".
+**Tabela 2.** Lista do cursos de pós-graduação na Área de Conhecimento **"Zoologia"** dentro da Área de Avaliação **"Biodiversidade"**.
 
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ----------------------- | ----------- |
@@ -126,7 +126,7 @@ Tabela 2. Lista do cursos de pós-graduação na Área de Conhecimento "Zoologia
 | 7 | Biodiversidade | Zoologia | [Entomologia](https://sites.usp.br/entomologia/pb/) | FFCLRP/USP |
 | 7 | Biodiversidade | Zoologia | [Biodiversidade](https://www.ibilce.unesp.br/#!/bioanimal) | IBILCE/UNESP |
 
-Tabela 3. Lista do cursos de pós-graduação na Área de Conhecimento "Recursos Florestais e Engenharia Florestal" dentro da Área de Avaliação "Ciências Agrárias". *Ainda precisa incluir os programas de notas A, 3 e 4.
+**Tabela 3.** Lista do cursos de pós-graduação na Área de Conhecimento **"Recursos Florestais e Engenharia Florestal"** dentro da Área de Avaliação **"Ciências Agrárias"**. *Ainda precisa incluir os programas de notas A, 3 e 4.
 
 Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
@@ -136,7 +136,7 @@ Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduaç
 | 5 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
 | 6 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Recursos Florestais](http://www.esalq.usp.br/pg/programas/recursos-florestais) | ESALQ/USP |
 
-Tabela 4. Lista do cursos de pós-graduação na Área de Conhecimento "Ciências Ambientais" dentro da Área de Avaliação "Ciências Ambientais". *Ainda precisa incluir os programas de notas 3 e 4.
+**Tabela 4.** Lista do cursos de pós-graduação na Área de Conhecimento **"Ciências Ambientais"** dentro da Área de Avaliação **"Ciências Ambientais".** *Ainda precisa incluir os programas de notas 3 e 4.
 
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
@@ -159,7 +159,7 @@ Tabela 4. Lista do cursos de pós-graduação na Área de Conhecimento "Ciência
 | 7 | Ciências Ambientais | Ciências Ambientais | [Ciências Ambientais](http://www.iee.usp.br/?q=pt-br/programa-de-p%C3%B3s-gradua%C3%A7%C3%A3o-em-ci%C3%AAncia-ambiental) | IEE/USP |
 | 7 | Ciências Ambientais | Ciências Ambientais | [Ecologia Aplicada](http://www.esalq.usp.br/pg/programas/ecologia-aplicada/) | ESALQ//USP |
 
-Tabela 5. Lista do cursos de pós-graduação na Área de Conhecimento "Interdisciplinar" dentro da Área de Avaliação "Interdisciplinar". *Ainda precisa incluir os programas de notas A, 3, 4 e 5.
+**Tabela 5.** Lista do cursos de pós-graduação na Área de Conhecimento **"Interdisciplinar"** dentro da Área de Avaliação **"Interdisciplinar"**. *Ainda precisa incluir os programas de notas A, 3, 4 e 5.
 
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
