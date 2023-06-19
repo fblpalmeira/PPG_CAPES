@@ -6,7 +6,7 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas correlatas.
 
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
-| ---- | ------------------- | --------------------- | ------------------- | ------------------- |
+| ---- | ------------------- | --------------------- | ----------------------- | ----------- |
 | A | Biodiversidade | Ecologia | [Biodiversidade e Conservação](https://sigaa.ufpi.br/sigaa/public/programa/portal.jsf?id=1116) | UFPI | 
 | A | Biodiversidade | Ecologia | [Conservação e Uso dos Recursos Naturais](https://ppgren.unir.br/homepage) | UNIR |
 | A | Biodiversidade | Ecologia | [Biodiversidade](https://www.furb.br/web/5336/cursos/programa-pos-graduacao/biodiversidade/apresentacao) | FURB |
@@ -79,7 +79,7 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 
 Tabela 2. Lista do cursos de pós-graduação na área ambiental e nas áreas correlatas.
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
-| ---- | ------------------- | --------------------- | ------------------- | ------------------- |
+| ---- | ------------------- | --------------------- | ----------------------- | ----------- |
 | A | Biodiversidade | Zoologia | [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
 | 3 | Biodiversidade | Zoologia | [Biologia Animal](https://ppgbioanimal.ufms.br/) | UFMS |
 | 3 | Biodiversidade | Zoologia | [Ecologia e Evolução](http://www.ecoevol.uefs.br/) | UEFS |
