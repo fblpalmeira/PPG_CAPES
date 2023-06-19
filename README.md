@@ -5,7 +5,7 @@ Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências A
 
 Para a área de avaliação (i) Biodiversidade, ainda não inclui as áreas de conhecimento Botânica e Oceanografia. Para a área de avaliação (ii) Ciências Agrárias I, considerei apenas a área Recursos Florestais e Engenharia Florestal e selecionei apenas aqueles cursos que tivesse na grade curricular alguma disciplina de conservação ou área correlata. Para a área de avaliação (iii) Ciências Ambientais considerei todos os cursos e para a área (iv) Interdisciplinar, considerei apenas os cursos com interface ambiental ou com disciplinas de conservação na grade curricular.
 
-Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas correlatas.
+Tabela 1. Lista do cursos de pós-graduação na Área de Conhecimento "Ecologia" dentro da Área de Avaliação "Biodiversidade".
 
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ----------------------- | ----------- |
@@ -79,9 +79,8 @@ Tabela 1. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 7 | Biodiversidade | Ecologia | [Ecologia](http://www.ib.unicamp.br/pos_ecologia/) | UNICAMP |
 | 7 | Biodiversidade | Ecologia | [Ecologia e Evolução](http://www.ecoevol.ufg.br) | UFG |
 
+Tabela 2. Lista do cursos de pós-graduação na Área de Conhecimento "Zoologia" dentro da Área de Avaliação "Biodiversidade".
 
-
-Tabela 2. Lista do cursos de pós-graduação na área ambiental e nas áreas correlatas.
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ----------------------- | ----------- |
 | A | Biodiversidade | Zoologia | [Sistemática e Conservação da Diversidade Biológica](https://proppg.uergs.edu.br/mestrados/ppgscbio#:~:text=O%20Mestrado%20Acad%C3%AAmico%20em%20Sistem%C3%A1tica%20e%20Conserva%C3%A7%C3%A3o%20da,a%20Secretaria%20do%20Meio%20Ambiente%20e%20Infraestrutura%20%28SEMA%29) | SEMA |
@@ -127,8 +126,9 @@ Tabela 2. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 7 | Biodiversidade | Zoologia | [Entomologia](https://sites.usp.br/entomologia/pb/) | FFCLRP/USP |
 | 7 | Biodiversidade | Zoologia | [Biodiversidade](https://www.ibilce.unesp.br/#!/bioanimal) | IBILCE/UNESP |
 
-Tabela 3. Lista do cursos de pós-graduação na área ambiental e nas áreas correlatas.
-| Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
+Tabela 3. Lista do cursos de pós-graduação na Área de Conhecimento "Recursos Florestais e Engenharia Florestal" dentro da Área de Avaliação "Ciências Agrárias". *Ainda precisa incluir os programas de notas A, 3 e 4.
+
+Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
 | 5 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Ciências de Florestas Tropicais](https://w2.solucaoatrio.net.br/somos/inpa-cft/index.php/pt/) | INPA |
 | 5 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Ciência Florestal](https://www.fca.unesp.br/#!/pg-ciencia-florestal) | UNESP Botucatu |
@@ -136,7 +136,8 @@ Tabela 3. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 5 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Engenharia Florestal](http://www.prppg.ufpr.br/site/ppgfloresta/pb/) | UFPR |
 | 6 | Ciências Agrárias | Recursos Florestais e Engenharia Florestal | [Recursos Florestais](http://www.esalq.usp.br/pg/programas/recursos-florestais) | ESALQ/USP |
 
-Tabela 4. Lista do cursos de pós-graduação na área ambiental e nas áreas correlatas.
+Tabela 4. Lista do cursos de pós-graduação na Área de Conhecimento "Ciências Ambientais" dentro da Área de Avaliação "Ciências Ambientais". *Ainda precisa incluir os programas de notas 3 e 4.
+
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
 | A | Ciências Ambientais | Ciências Ambientais | [Desastres Naturais](https://www.ict.unesp.br/#!/ensino/pos-graduacao/desastres-naturais/principal/) | UNESP São José dos Campos |
@@ -158,7 +159,8 @@ Tabela 4. Lista do cursos de pós-graduação na área ambiental e nas áreas co
 | 7 | Ciências Ambientais | Ciências Ambientais | [Ciências Ambientais](http://www.iee.usp.br/?q=pt-br/programa-de-p%C3%B3s-gradua%C3%A7%C3%A3o-em-ci%C3%AAncia-ambiental) | IEE/USP |
 | 7 | Ciências Ambientais | Ciências Ambientais | [Ecologia Aplicada](http://www.esalq.usp.br/pg/programas/ecologia-aplicada/) | ESALQ//USP |
 
-Tabela 5. Lista do cursos de pós-graduação na área ambiental e nas áreas correlatas.
+Tabela 5. Lista do cursos de pós-graduação na Área de Conhecimento "Interdisciplinar" dentro da Área de Avaliação "Interdisciplinar". *Ainda precisa incluir os programas de notas A, 3, 4 e 5.
+
 | Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduação | Instituição |
 | ---- | ------------------- | --------------------- | ------------------- | ------------------- |
 | 6 | Interdisciplinar | Interdisciplinar | [Modelagem Computacional](http://posgrad.lncc.br/pt-br/) | LNCC |
