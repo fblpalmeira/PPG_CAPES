@@ -1,9 +1,9 @@
 # Lista dos Cursos de Pós-Graduação Avaliados e Reconhecidos pela CAPES
 
-Compilei as informações dos cursos de pós-graduação na área da conservação ambiental e nas áreas correlatas utilizando a [Plataforma Sucupira](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoConceito.jsf;jsessionid=QYgAtGy9GTmsaDFQ65m-bfSJ.sucupira-214). 
+Compilei as informações dos cursos de pós-graduação na área da **conservação ambiental** e nas áreas correlatas utilizando a [Plataforma Sucupira](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/quantitativos/quantitativoConceito.jsf;jsessionid=QYgAtGy9GTmsaDFQ65m-bfSJ.sucupira-214). 
 Considerei apenas as áreas de avaliação: (i) Biodiversidade, (ii) Ciências Agrárias I, (iii) Ciências Ambientais e (iv) Interdisciplinar. 
 
-Para a área de avaliação (i) Biodiversidade, ainda não inclui as áreas de conhecimento Botânica e Oceanografia. Para a área de avaliação (ii) Ciências Agrárias I, considerei apenas a área Recursos Florestais e Engenharia Florestal e selecionei apenas aqueles cursos que tivesse na grade curricular alguma disciplina de conservação ou área correlata. Para a área de avaliação (iii) Ciências Ambientais considerei todos os cursos e para a área (iv) Interdisciplinar, considerei apenas os cursos com interface ambiental ou com disciplinas de conservação na grade curricular.
+Para a área de avaliação (i) Biodiversidade, ainda não inclui as áreas de conhecimento Botânica e Oceanografia. Para a área de avaliação (ii) Ciências Agrárias I, considerei apenas a área Recursos Florestais e Engenharia Florestal e selecionei apenas aqueles cursos que tivesse na grade curricular alguma disciplina de **conservação** ou área correlata. Para a área de avaliação (iii) Ciências Ambientais considerei todos os cursos e para a área (iv) Interdisciplinar, considerei apenas os cursos com interface ambiental ou com disciplinas de **conservação** na grade curricular.
 
 Tabela 1. Lista do cursos de pós-graduação na Área de Conhecimento "Ecologia" dentro da Área de Avaliação "Biodiversidade".
 
