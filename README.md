@@ -177,10 +177,10 @@ A **Ecologia** é a Área de Conhecimento da **Biodiversidade** que tem mais cur
 
 - [Script `.R`](https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/boxplot_ppg_biodiversidade.R)
 
-**Tabela 6.** Notas dos programas de pós-graduação na Área da **Biodiversidade**. Fonte: Plataforma Sucupira.
+**Tabela 6.** Notas dos programas de pós-graduação na Área da Biodiversidade. Fonte: Plataforma Sucupira.
 
 <img src="https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/Tabela_Biodiversidade.png">
 
 <img src="https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/Figura_Biodiversidade.png">
 
-**Figura 1.** Desempenho dos programas de pós-graduação na Área da **Biodiversidade**. Fonte: Plataforma Sucupira.
+**Figura 1.** Desempenho dos programas de pós-graduação na Área da Biodiversidade de acordo com o conceito da CAPES. Fonte: Plataforma Sucupira.
