@@ -171,6 +171,7 @@ Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduaç
 
 - [Database `.xlsx`](https://github.com/fblpalmeira/PPG_CAPES/tree/main/data)
 
-- [Script `.R`]()
+- [Script `.R`](https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/boxplot_ppg_biodiversidade.R)
 
 <img src="https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/Figura_Biodiversidade.png">
+<img src="">
