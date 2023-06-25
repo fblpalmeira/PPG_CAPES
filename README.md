@@ -173,4 +173,4 @@ Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduaç
 
 - [Script `.R`]()
 
-<img src="">
+<img src="https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/Figura_Biodiversidade.png">
