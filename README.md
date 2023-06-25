@@ -169,9 +169,19 @@ Nota |  Área de Avaliação  | Área de Conhecimento  |  Curso de Pós-graduaç
 
 ----
 
+# Ecologia
+
+A **Ecologia** é a Área de Conhecimento da **Biodiversidade** que tem mais cursos e também aquele que tem as piores avaliações de acordo com a plataforma Sucupira (Figura 1). São 65 programas, sendo 21 com nota 3 e 20 com nota 4 (Tabela 6).
+
+**Tabela 6.** Notas dos programas de pós-graduação na Área da **Biodiversidade**. Fonte: Plataforma Sucupira.
+
+<img src="https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/Tabela_Biodiversidade.png">
+
+<img src="https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/Figura_Biodiversidade.png">
+
+**Figura 1.** Desempenho dos programas de pós-graduação na Área da **Biodiversidade**. Fonte: Plataforma Sucupira.
+
 - [Database `.xlsx`](https://github.com/fblpalmeira/PPG_CAPES/tree/main/data)
 
 - [Script `.R`](https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/boxplot_ppg_biodiversidade.R)
-
-<img src="https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/Figura_Biodiversidade.png">
-<img src="https://github.com/fblpalmeira/PPG_CAPES/blob/main/data/Tabela_Biodiversidade.png">
+----
